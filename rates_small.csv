@@ -1,0 +1,1001 @@
+zip,eiaid,utility_name,state,service_type,ownership,comm_rate,ind_rate,res_rate
+52346,9417,Interstate Power and Light Co,IA,Bundled,Investor Owned,0.092234317,0.058968641,0.130070934
+72424,814,Entergy Arkansas Inc,AR,Bundled,Investor Owned,0.073512933,0.059450174,0.090895742
+87574,15473,Public Service Co of NM,NM,Bundled,Investor Owned,0.095392108,0.060788651,0.114215332
+79968,5701,El Paso Electric Co,TX,Bundled,Investor Owned,0.104321264,0.068396185,0.118689772
+93592,17609,Southern California Edison Co,CA,Delivery,Investor Owned,0.047427465,0.027338937,0.099222044
+6019,4176,Connecticut Light & Power Co,CT,Delivery,Investor Owned,0.061097007,0.044635978,0.078313888
+91902,16609,San Diego Gas & Electric Co,CA,Delivery,Investor Owned,0.059179341,0.038634004,0.080602437
+63143,19436,Union Electric Co - (MO),MO,Bundled,Investor Owned,0.073945246,0.050392067,0.091719389
+95119,14328,Pacific Gas & Electric Co,CA,Bundled,Investor Owned,0.142367554,0.094277933,0.153192074
+4555,3266,Central Maine Power Co,ME,Bundled,Investor Owned,0.115879828,0,0.15942029
+1757,11804,Massachusetts Electric Co,MA,Delivery,Investor Owned,0.044144135,0.037251694,0.057463532
+2446,54913,NSTAR Electric Company,MA,Bundled,Investor Owned,0.165163137,0.137749146,0.162306859
+44089,13998,Ohio Edison Co,OH,Bundled,Investor Owned,0.106292845,0.06295084,0.109307305
+4472,3266,Central Maine Power Co,ME,Bundled,Investor Owned,0.115879828,0,0.15942029
+73548,15474,Public Service Co of Oklahoma,OK,Bundled,Investor Owned,0.06821801,0.048628325,0.084915537
+98030,15500,Puget Sound Energy Inc,WA,Delivery,Investor Owned,0.008515608,0.004981553,0
+92102,16609,San Diego Gas & Electric Co,CA,Bundled,Investor Owned,0.160506948,0.130422159,0.177039321
+15126,5487,Duquesne Light Co,PA,Bundled,Investor Owned,0.104442012,0.086683386,0.149769148
+27017,5416,Duke Energy Carolinas LLC,NC,Bundled,Investor Owned,0.071565584,0.053408512,0.091544482
+8879,9726,Jersey Central Power & Lt Co,NJ,Bundled,Investor Owned,0.152577037,0.133994295,0.157644275
+94927,14328,Pacific Gas & Electric Co,CA,Bundled,Investor Owned,0.142367554,0.094277933,0.153192074
+36625,195,Alabama Power Co,AL,Bundled,Investor Owned,0.105761195,0.060292437,0.114943267
+12139,13573,Niagara Mohawk Power Corp.,NY,Delivery,Investor Owned,0.060239464,0.037673936,0.090200929
+33173,6452,Florida Power & Light Co,FL,Bundled,Investor Owned,0.091608902,0.073936822,0.106422376
+49342,4254,Consumers Energy Co,MI,Delivery,Investor Owned,0.013728496,0.008815742,0
+23663,19876,Virginia Electric & Power Co,VA,Bundled,Investor Owned,0.077371394,0.062481359,0.106423208
+20428,15270,Potomac Electric Power Co,DC,Delivery,Investor Owned,0.036212417,0.013370544,0.032191719
+21074,1167,Baltimore Gas & Electric Co,MD,Bundled,Investor Owned,0.118867506,0.104325959,0.137617619
+15655,20387,West Penn Power Company,PA,Delivery,Investor Owned,0.011446967,0.003880767,0.026002226
+15760,14711,Pennsylvania Electric Co,PA,Delivery,Investor Owned,0.020927993,0.01129169,0.061388228
+48006,5109,Detroit Edison Co,MI,Delivery,Investor Owned,0.022641072,0.011945853,0.058959538
+16368,14711,Pennsylvania Electric Co,PA,Delivery,Investor Owned,0.020927993,0.01129169,0.061388228
+85722,24211,Tucson Electric Power Co,AZ,Bundled,Investor Owned,0.109955083,0.07116696,0.098741439
+71037,17698,Southwestern Electric Power Co,LA,Bundled,Investor Owned,0.06886631,0.057475098,0.081692987
+12018,13511,New York State Elec & Gas Corp,NY,Bundled,Investor Owned,0.096221457,0.058438583,0.108261463
+96805,19547,Hawaiian Electric Co Inc,HI,Bundled,Investor Owned,0.296066494,0.265872025,0.320414265
+70542,55936,Entergy Gulf States - LA LLC,LA,Bundled,Investor Owned,0.08007591,0.054237805,0.088990847
+50305,12341,MidAmerican Energy Co,IA,Bundled,Investor Owned,0.064814317,0.040821961,0.083954831
+47131,15470,Duke Energy Indiana Inc,IN,Bundled,Investor Owned,0.081091666,0.062939441,0.098321732
+7726,9726,Jersey Central Power & Lt Co,NJ,Bundled,Investor Owned,0.152577037,0.133994295,0.157644275
+1532,11804,Massachusetts Electric Co,MA,Bundled,Investor Owned,0.134146917,0.123324397,0.134916962
+3234,24590,Unitil Energy Systems,NH,Delivery,Investor Owned,0.055440218,0.038409399,0.064281191
+13167,13573,Niagara Mohawk Power Corp.,NY,Delivery,Investor Owned,0.060239464,0.037673936,0.090200929
+48427,5109,Detroit Edison Co,MI,Bundled,Investor Owned,0.103319837,0.071105571,0.137187602
+22469,19876,Virginia Electric & Power Co,VA,Bundled,Investor Owned,0.077371394,0.062481359,0.106423208
+12563,13511,New York State Elec & Gas Corp,NY,Bundled,Investor Owned,0.096221457,0.058438583,0.108261463
+6090,4176,Connecticut Light & Power Co,CT,Bundled,Investor Owned,0.15530586,0.124954145,0.172784864
+6910,4176,Connecticut Light & Power Co,CT,Delivery,Investor Owned,0.061097007,0.044635978,0.078313888
+20903,15270,Potomac Electric Power Co,MD,Delivery,Investor Owned,0.033762332,0.018373916,0.045026216
+29061,17539,South Carolina Electric&Gas Co,SC,Bundled,Investor Owned,0.102813097,0.069463774,0.12513854
+12821,13573,Niagara Mohawk Power Corp.,NY,Bundled,Investor Owned,0.131290106,0.154663271,0.151591982
+79947,5701,El Paso Electric Co,TX,Bundled,Investor Owned,0.104321264,0.068396185,0.118689772
+95955,14328,Pacific Gas & Electric Co,CA,Delivery,Investor Owned,0.071437821,0.046590371,0.146238365
+49643,4254,Consumers Energy Co,MI,Bundled,Investor Owned,0.112411514,0.081349356,0.133706143
+72906,14063,Oklahoma Gas & Electric Co,AR,Bundled,Investor Owned,0.066237484,0.052899594,0.076926959
+7060,15477,Public Service Elec & Gas Co,NJ,Bundled,Investor Owned,0.136582522,0.066842646,0.165733958
+43654,18997,The Toledo Edison Co,OH,Delivery,Investor Owned,0.043203287,0.004030017,0.050900753
+38704,12685,Entergy Mississippi Inc,MS,Bundled,Investor Owned,0.081224712,0.062666798,0.083803185
+33848,6455,Progress Energy Florida Inc,FL,Bundled,Investor Owned,0.098718164,0.08774184,0.128041631
+43635,18997,The Toledo Edison Co,OH,Delivery,Investor Owned,0.043203287,0.004030017,0.050900753
+27532,3046,Progress Energy Carolinas Inc,NC,Bundled,Investor Owned,0.082498909,0.066246849,0.10117792
+17822,14715,PPL Electric Utilities Corp,PA,Delivery,Investor Owned,0.014107527,0.004782847,0.040313882
+74148,15474,Public Service Co of Oklahoma,OK,Bundled,Investor Owned,0.06821801,0.048628325,0.084915537
+18603,14715,PPL Electric Utilities Corp,PA,Bundled,Investor Owned,0.144667651,0.263364462,0.1256233
+52774,9417,Interstate Power and Light Co,IA,Bundled,Investor Owned,0.092234317,0.058968641,0.130070934
+7979,9726,Jersey Central Power & Lt Co,NJ,Bundled,Investor Owned,0.152577037,0.133994295,0.157644275
+13141,13573,Niagara Mohawk Power Corp.,NY,Bundled,Investor Owned,0.131290106,0.154663271,0.151591982
+28380,3046,Progress Energy Carolinas Inc,NC,Bundled,Investor Owned,0.082498909,0.066246849,0.10117792
+94556,14328,Pacific Gas & Electric Co,CA,Delivery,Investor Owned,0.071437821,0.046590371,0.146238365
+60106,4110,Commonwealth Edison Co,IL,Bundled,Investor Owned,0.100818909,0.067280048,0.126237538
+60102,4110,Commonwealth Edison Co,IL,Bundled,Investor Owned,0.100818909,0.067280048,0.126237538
+93427,14328,Pacific Gas & Electric Co,CA,Bundled,Investor Owned,0.142367554,0.094277933,0.153192074
+38106,814,Entergy Arkansas Inc,TN,Bundled,Investor Owned,0.1275,0.216666667,0.096774194
+55450,13781,Northern States Power Co - Minnesota,MN,Bundled,Investor Owned,0.084187309,0.068194224,0.111871604
+12993,13573,Niagara Mohawk Power Corp.,NY,Bundled,Investor Owned,0.131290106,0.154663271,0.151591982
+97205,15248,Portland General Electric Co,OR,Bundled,Investor Owned,0.088319388,0.062413187,0.108028672
+98021,15500,Puget Sound Energy Inc,WA,Delivery,Investor Owned,0.008515608,0.004981553,0
+14013,13573,Niagara Mohawk Power Corp.,NY,Bundled,Investor Owned,0.131290106,0.154663271,0.151591982
+59041,12825,NorthWestern Energy LLC - (MT),MT,Delivery,Investor Owned,0.023130729,0.004845959,0.037398374
+54561,20860,Wisconsin Public Service Corp,WI,Bundled,Investor Owned,0.092318267,0.058833221,0.12472853
+60696,4110,Commonwealth Edison Co,IL,Delivery,Investor Owned,0.018697463,0.012212514,0.046206542
+74112,15474,Public Service Co of Oklahoma,OK,Bundled,Investor Owned,0.06821801,0.048628325,0.084915537
+84170,14354,PacifiCorp,UT,Bundled,Investor Owned,0.07184833,0.049248749,0.090628234
+2171,11804,Massachusetts Electric Co,MA,Bundled,Investor Owned,0.134146917,0.123324397,0.134916962
+15412,20387,West Penn Power Company,PA,Delivery,Investor Owned,0.011446967,0.003880767,0.026002226
+44270,13998,Ohio Edison Co,OH,Delivery,Investor Owned,0.035332739,0.01164377,0.044297461
+95245,14328,Pacific Gas & Electric Co,CA,Delivery,Investor Owned,0.071437821,0.046590371,0.146238365
+12194,13573,Niagara Mohawk Power Corp.,NY,Delivery,Investor Owned,0.060239464,0.037673936,0.090200929
+15437,20387,West Penn Power Company,PA,Delivery,Investor Owned,0.011446967,0.003880767,0.026002226
+59807,12825,NorthWestern Energy LLC - (MT),MT,Delivery,Investor Owned,0.023130729,0.004845959,0.037398374
+16321,14711,Pennsylvania Electric Co,PA,Bundled,Investor Owned,0.103665282,0.093954613,0.13705844
+95555,14328,Pacific Gas & Electric Co,CA,Delivery,Investor Owned,0.071437821,0.046590371,0.146238365
+19482,14940,PECO Energy Co,PA,Delivery,Investor Owned,0.028273768,0.011468911,0.065596309
+94620,14328,Pacific Gas & Electric Co,CA,Bundled,Investor Owned,0.142367554,0.094277933,0.153192074
+48848,4254,Consumers Energy Co,MI,Delivery,Investor Owned,0.013728496,0.008815742,0
+16950,14711,Pennsylvania Electric Co,PA,Delivery,Investor Owned,0.020927993,0.01129169,0.061388228
+60137,4110,Commonwealth Edison Co,IL,Bundled,Investor Owned,0.100818909,0.067280048,0.126237538
+3046,15472,Public Service Co of NH,NH,Delivery,Investor Owned,0.046557711,0.034151942,0.06490993
+12958,13511,New York State Elec & Gas Corp,NY,Delivery,Investor Owned,0.029105834,0.01093415,0.046524072
+74331,15474,Public Service Co of Oklahoma,OK,Bundled,Investor Owned,0.06821801,0.048628325,0.084915537
+40845,10171,Kentucky Utilities Co,KY,Bundled,Investor Owned,0.078753098,0.056557066,0.080245866
+60126,4110,Commonwealth Edison Co,IL,Bundled,Investor Owned,0.100818909,0.067280048,0.126237538
+96791,19547,Hawaiian Electric Co Inc,HI,Bundled,Investor Owned,0.296066494,0.265872025,0.320414265
+94512,14328,Pacific Gas & Electric Co,CA,Delivery,Investor Owned,0.071437821,0.046590371,0.146238365
+89508,17166,Sierra Pacific Power Co,NV,Delivery,Investor Owned,0,0.001590631,0
+47884,15470,Duke Energy Indiana Inc,IN,Bundled,Investor Owned,0.081091666,0.062939441,0.098321732
+89147,13407,Nevada Power Co,NV,Bundled,Investor Owned,0.091295686,0.07822266,0.118566723
+18071,14715,PPL Electric Utilities Corp,PA,Bundled,Investor Owned,0.144667651,0.263364462,0.1256233
+22243,19876,Virginia Electric & Power Co,VA,Bundled,Investor Owned,0.077371394,0.062481359,0.106423208
+99329,14354,PacifiCorp,WA,Bundled,Investor Owned,0.075047623,0.062496651,0.078569891
+95696,14328,Pacific Gas & Electric Co,CA,Delivery,Investor Owned,0.071437821,0.046590371,0.146238365
+58479,14232,Otter Tail Power Co,ND,Bundled,Investor Owned,0.068268681,0.059734664,0.076911864
+49337,4254,Consumers Energy Co,MI,Delivery,Investor Owned,0.013728496,0.008815742,0
+92340,17609,Southern California Edison Co,CA,Bundled,Investor Owned,0.125366193,0.090076352,0.144165776
+20166,19876,Virginia Electric & Power Co,VA,Bundled,Investor Owned,0.077371394,0.062481359,0.106423208
+17246,14711,Pennsylvania Electric Co,PA,Delivery,Investor Owned,0.020927993,0.01129169,0.061388228
+84122,14354,PacifiCorp,UT,Bundled,Investor Owned,0.07184833,0.049248749,0.090628234
+13202,13573,Niagara Mohawk Power Corp.,NY,Delivery,Investor Owned,0.060239464,0.037673936,0.090200929
+49449,4254,Consumers Energy Co,MI,Bundled,Investor Owned,0.112411514,0.081349356,0.133706143
+57246,14232,Otter Tail Power Co,SD,Bundled,Investor Owned,0.060291898,0.057035653,0.076922081
+4344,3266,Central Maine Power Co,ME,Bundled,Investor Owned,0.115879828,0,0.15942029
+1139,20455,Western Massachusetts Elec Co,MA,Bundled,Investor Owned,0.142065062,0.121061049,0.146917564
+19111,14940,PECO Energy Co,PA,Bundled,Investor Owned,0.128433164,0.09284082,0.155334596
+91978,16609,San Diego Gas & Electric Co,CA,Bundled,Investor Owned,0.160506948,0.130422159,0.177039321
+20003,15270,Potomac Electric Power Co,DC,Delivery,Investor Owned,0.036212417,0.013370544,0.032191719
+82414,14354,PacifiCorp,WY,Bundled,Investor Owned,0.075856806,0.05225231,0.091012205
+90312,17609,Southern California Edison Co,CA,Delivery,Investor Owned,0.047427465,0.027338937,0.099222044
+90806,17609,Southern California Edison Co,CA,Delivery,Investor Owned,0.047427465,0.027338937,0.099222044
+93106,17609,Southern California Edison Co,CA,Bundled,Investor Owned,0.125366193,0.090076352,0.144165776
+18764,14715,PPL Electric Utilities Corp,PA,Bundled,Investor Owned,0.144667651,0.263364462,0.1256233
+58502,12199,Montana-Dakota Utilities Co,ND,Bundled,Investor Owned,0.074605034,0.060396383,0.079774223
+46952,9324,Indiana Michigan Power Co,IN,Bundled,Investor Owned,0.071062015,0.053069734,0.083473938
+35219,195,Alabama Power Co,AL,Bundled,Investor Owned,0.105761195,0.060292437,0.114943267
+6778,4176,Connecticut Light & Power Co,CT,Bundled,Investor Owned,0.15530586,0.124954145,0.172784864
+49929,20847,Wisconsin Electric Power Co,MI,Bundled,Investor Owned,0.136549947,0.059702949,0.157136813
+14145,13511,New York State Elec & Gas Corp,NY,Delivery,Investor Owned,0.029105834,0.01093415,0.046524072
+21784,1167,Baltimore Gas & Electric Co,MD,Bundled,Investor Owned,0.118867506,0.104325959,0.137617619
+63390,19436,Union Electric Co - (MO),MO,Bundled,Investor Owned,0.073945246,0.050392067,0.091719389
+4241,3266,Central Maine Power Co,ME,Bundled,Investor Owned,0.115879828,0,0.15942029
+12197,13573,Niagara Mohawk Power Corp.,NY,Delivery,Investor Owned,0.060239464,0.037673936,0.090200929
+33401,6452,Florida Power & Light Co,FL,Bundled,Investor Owned,0.091608902,0.073936822,0.106422376
+89101,13407,Nevada Power Co,NV,Delivery,Investor Owned,0.010302256,0,0
+2747,54913,NSTAR Electric Company,MA,Delivery,Investor Owned,0.081434042,0.057905047,0.088478719
+6440,4176,Connecticut Light & Power Co,CT,Bundled,Investor Owned,0.15530586,0.124954145,0.172784864
+47359,9324,Indiana Michigan Power Co,IN,Bundled,Investor Owned,0.071062015,0.053069734,0.083473938
+47836,15470,Duke Energy Indiana Inc,IN,Bundled,Investor Owned,0.081091666,0.062939441,0.098321732
+35007,195,Alabama Power Co,AL,Bundled,Investor Owned,0.105761195,0.060292437,0.114943267
+49430,4254,Consumers Energy Co,MI,Delivery,Investor Owned,0.013728496,0.008815742,0
+47861,15470,Duke Energy Indiana Inc,IN,Bundled,Investor Owned,0.081091666,0.062939441,0.098321732
+36051,195,Alabama Power Co,AL,Bundled,Investor Owned,0.105761195,0.060292437,0.114943267
+48322,5109,Detroit Edison Co,MI,Delivery,Investor Owned,0.022641072,0.011945853,0.058959538
+22963,19876,Virginia Electric & Power Co,VA,Bundled,Investor Owned,0.077371394,0.062481359,0.106423208
+49240,4254,Consumers Energy Co,MI,Delivery,Investor Owned,0.013728496,0.008815742,0
+97075,15248,Portland General Electric Co,OR,Bundled,Investor Owned,0.088319388,0.062413187,0.108028672
+2169,11804,Massachusetts Electric Co,MA,Bundled,Investor Owned,0.134146917,0.123324397,0.134916962
+38929,12685,Entergy Mississippi Inc,MS,Bundled,Investor Owned,0.081224712,0.062666798,0.083803185
+97702,14354,PacifiCorp,OR,Delivery,Investor Owned,0.03759443,0,0
+41778,22053,Kentucky Power Co,KY,Bundled,Investor Owned,0.09857028,0.060267867,0.096570014
+7439,9726,Jersey Central Power & Lt Co,NJ,Bundled,Investor Owned,0.152577037,0.133994295,0.157644275
+11218,4226,Consolidated Edison Co-NY Inc,NY,Bundled,Investor Owned,0.207022402,0.186480275,0.25588355
+13783,13511,New York State Elec & Gas Corp,NY,Delivery,Investor Owned,0.029105834,0.01093415,0.046524072
+15674,20387,West Penn Power Company,PA,Bundled,Investor Owned,0.087653653,0.073657228,0.097829904
+45255,3542,Duke Energy Ohio Inc,OH,Bundled,Investor Owned,0.128009982,0.119494389,0.121479174
+47596,15470,Duke Energy Indiana Inc,IN,Bundled,Investor Owned,0.081091666,0.062939441,0.098321732
+94957,14328,Pacific Gas & Electric Co,CA,Bundled,Investor Owned,0.142367554,0.094277933,0.153192074
+10174,4226,Consolidated Edison Co-NY Inc,NY,Delivery,Investor Owned,0.080395462,0.078472483,0.147757285
+15223,5487,Duquesne Light Co,PA,Delivery,Investor Owned,0.021390766,0.011192024,0.062058592
+94587,14328,Pacific Gas & Electric Co,CA,Delivery,Investor Owned,0.071437821,0.046590371,0.146238365
+1741,54913,NSTAR Electric Company,MA,Bundled,Investor Owned,0.165163137,0.137749146,0.162306859
+93930,14328,Pacific Gas & Electric Co,CA,Delivery,Investor Owned,0.071437821,0.046590371,0.146238365
+47362,15470,Duke Energy Indiana Inc,IN,Bundled,Investor Owned,0.081091666,0.062939441,0.098321732
+8873,15477,Public Service Elec & Gas Co,NJ,Bundled,Investor Owned,0.136582522,0.066842646,0.165733958
+18953,12390,Metropolitan Edison Co,PA,Delivery,Investor Owned,0.025393569,0.010711085,0.046044189
+20440,15270,Potomac Electric Power Co,DC,Bundled,Investor Owned,0.143585317,0,0.134360949
+48765,4254,Consumers Energy Co,MI,Delivery,Investor Owned,0.013728496,0.008815742,0
+48317,5109,Detroit Edison Co,MI,Delivery,Investor Owned,0.022641072,0.011945853,0.058959538
+21705,15263,The Potomac Edison Company,MD,Bundled,Investor Owned,0.108714154,0.080103035,0.107445108
+26852,12796,Monongahela Power Co,WV,Bundled,Investor Owned,0.081872266,0.064239576,0.098438045
+55574,13781,Northern States Power Co - Minnesota,MN,Bundled,Investor Owned,0.084187309,0.068194224,0.111871604
+77358,55937,Entergy Texas Inc.,TX,Bundled,Investor Owned,0.076956634,0.056338211,0.096686619
+7803,9726,Jersey Central Power & Lt Co,NJ,Bundled,Investor Owned,0.152577037,0.133994295,0.157644275
+43660,18997,The Toledo Edison Co,OH,Bundled,Investor Owned,0.126733142,0.037189295,0.117686492
+33448,6452,Florida Power & Light Co,FL,Bundled,Investor Owned,0.091608902,0.073936822,0.106422376
+59469,12825,NorthWestern Energy LLC - (MT),MT,Delivery,Investor Owned,0.023130729,0.004845959,0.037398374
+12783,13511,New York State Elec & Gas Corp,NY,Bundled,Investor Owned,0.096221457,0.058438583,0.108261463
+17344,12390,Metropolitan Edison Co,PA,Bundled,Investor Owned,0.121340576,0.107426201,0.134087433
+59728,12825,NorthWestern Energy LLC - (MT),MT,Bundled,Investor Owned,0.102187894,0.080272269,0.105844194
+16644,14711,Pennsylvania Electric Co,PA,Delivery,Investor Owned,0.020927993,0.01129169,0.061388228
+59604,12825,NorthWestern Energy LLC - (MT),MT,Bundled,Investor Owned,0.102187894,0.080272269,0.105844194
+52658,9417,Interstate Power and Light Co,IA,Bundled,Investor Owned,0.092234317,0.058968641,0.130070934
+28814,3046,Progress Energy Carolinas Inc,NC,Bundled,Investor Owned,0.082498909,0.066246849,0.10117792
+10459,4226,Consolidated Edison Co-NY Inc,NY,Delivery,Investor Owned,0.080395462,0.078472483,0.147757285
+95925,14328,Pacific Gas & Electric Co,CA,Delivery,Investor Owned,0.071437821,0.046590371,0.146238365
+13062,13511,New York State Elec & Gas Corp,NY,Bundled,Investor Owned,0.096221457,0.058438583,0.108261463
+4352,3266,Central Maine Power Co,ME,Delivery,Investor Owned,0.038754291,0.020158829,0.065878839
+4951,3266,Central Maine Power Co,ME,Delivery,Investor Owned,0.038754291,0.020158829,0.065878839
+48430,4254,Consumers Energy Co,MI,Bundled,Investor Owned,0.112411514,0.081349356,0.133706143
+14546,16183,Rochester Gas & Electric Corp,NY,Bundled,Investor Owned,0.113909214,0.085023215,0.120649633
+20709,1167,Baltimore Gas & Electric Co,MD,Bundled,Investor Owned,0.118867506,0.104325959,0.137617619
+17010,12390,Metropolitan Edison Co,PA,Bundled,Investor Owned,0.121340576,0.107426201,0.134087433
+36853,195,Alabama Power Co,AL,Bundled,Investor Owned,0.105761195,0.060292437,0.114943267
+52161,9417,Interstate Power and Light Co,IA,Bundled,Investor Owned,0.092234317,0.058968641,0.130070934
+96815,19547,Hawaiian Electric Co Inc,HI,Bundled,Investor Owned,0.296066494,0.265872025,0.320414265
+33160,6452,Florida Power & Light Co,FL,Bundled,Investor Owned,0.091608902,0.073936822,0.106422376
+3832,15472,Public Service Co of NH,NH,Delivery,Investor Owned,0.046557711,0.034151942,0.06490993
+45309,4922,Dayton Power & Light Co,OH,Delivery,Investor Owned,0.021341892,0.013308016,0.043956727
+14143,13573,Niagara Mohawk Power Corp.,NY,Bundled,Investor Owned,0.131290106,0.154663271,0.151591982
+97122,15248,Portland General Electric Co,OR,Delivery,Investor Owned,0.033918665,0.013637508,0
+96162,14328,Pacific Gas & Electric Co,CA,Delivery,Investor Owned,0.071437821,0.046590371,0.146238365
+63129,19436,Union Electric Co - (MO),MO,Bundled,Investor Owned,0.073945246,0.050392067,0.091719389
+97538,14354,PacifiCorp,OR,Bundled,Investor Owned,0.081467295,0.06387809,0.097299825
+48237,5109,Detroit Edison Co,MI,Delivery,Investor Owned,0.022641072,0.011945853,0.058959538
+46634,9324,Indiana Michigan Power Co,IN,Bundled,Investor Owned,0.071062015,0.053069734,0.083473938
+11241,4226,Consolidated Edison Co-NY Inc,NY,Delivery,Investor Owned,0.080395462,0.078472483,0.147757285
+16239,14711,Pennsylvania Electric Co,PA,Bundled,Investor Owned,0.103665282,0.093954613,0.13705844
+71960,814,Entergy Arkansas Inc,AR,Bundled,Investor Owned,0.073512933,0.059450174,0.090895742
+6517,19497,United Illuminating Co,CT,Bundled,Investor Owned,0.173161787,0.149270954,0.222593624
+15068,20387,West Penn Power Company,PA,Bundled,Investor Owned,0.087653653,0.073657228,0.097829904
+13208,13573,Niagara Mohawk Power Corp.,NY,Delivery,Investor Owned,0.060239464,0.037673936,0.090200929
+45343,4922,Dayton Power & Light Co,OH,Bundled,Investor Owned,0.110168784,0.093546185,0.132174675
+6155,4176,Connecticut Light & Power Co,CT,Delivery,Investor Owned,0.061097007,0.044635978,0.078313888
+18371,12390,Metropolitan Edison Co,PA,Delivery,Investor Owned,0.025393569,0.010711085,0.046044189
+8720,9726,Jersey Central Power & Lt Co,NJ,Bundled,Investor Owned,0.152577037,0.133994295,0.157644275
+20535,15270,Potomac Electric Power Co,DC,Delivery,Investor Owned,0.036212417,0.013370544,0.032191719
+1243,20455,Western Massachusetts Elec Co,MA,Bundled,Investor Owned,0.142065062,0.121061049,0.146917564
+83341,9191,Idaho Power Co,ID,Bundled,Investor Owned,0.055579993,0.049492353,0.07404004
+66835,22500,Westar Energy Inc,KS,Bundled,Investor Owned,0.080520238,0.068371296,0.099272221
+70195,13478,Entergy New Orleans Inc,LA,Bundled,Investor Owned,0.07812697,0.059852856,0.093184687
+18059,14715,PPL Electric Utilities Corp,PA,Delivery,Investor Owned,0.014107527,0.004782847,0.040313882
+12771,14154,Orange & Rockland Utils Inc,NY,Delivery,Investor Owned,0.051885114,0.030335244,0.087421006
+60482,4110,Commonwealth Edison Co,IL,Bundled,Investor Owned,0.100818909,0.067280048,0.126237538
+4011,3266,Central Maine Power Co,ME,Delivery,Investor Owned,0.038754291,0.020158829,0.065878839
+25837,733,Appalachian Power Co,WV,Bundled,Investor Owned,0.080700876,0.061641445,0.090634848
+14228,13573,Niagara Mohawk Power Corp.,NY,Bundled,Investor Owned,0.131290106,0.154663271,0.151591982
+14548,16183,Rochester Gas & Electric Corp,NY,Delivery,Investor Owned,0.043427921,0.031397187,0.058219249
+6520,19497,United Illuminating Co,CT,Delivery,Investor Owned,0.071346558,0.060197032,0.11658636
+6375,4176,Connecticut Light & Power Co,CT,Bundled,Investor Owned,0.15530586,0.124954145,0.172784864
+70444,11241,Entergy Louisiana Inc,LA,Bundled,Investor Owned,0.088846754,0.054731296,0.088922803
+93292,17609,Southern California Edison Co,CA,Bundled,Investor Owned,0.125366193,0.090076352,0.144165776
+27455,5416,Duke Energy Carolinas LLC,NC,Bundled,Investor Owned,0.071565584,0.053408512,0.091544482
+33167,6452,Florida Power & Light Co,FL,Bundled,Investor Owned,0.091608902,0.073936822,0.106422376
+8005,963,Atlantic City Electric Co,NJ,Delivery,Investor Owned,0.045047806,0.036561313,0.062179891
+24272,733,Appalachian Power Co,VA,Bundled,Investor Owned,0.074521265,0.056596323,0.093569937
+2641,54913,NSTAR Electric Company,MA,Delivery,Investor Owned,0.081434042,0.057905047,0.088478719
+13334,13511,New York State Elec & Gas Corp,NY,Delivery,Investor Owned,0.029105834,0.01093415,0.046524072
+16920,14711,Pennsylvania Electric Co,PA,Bundled,Investor Owned,0.103665282,0.093954613,0.13705844
+32955,6452,Florida Power & Light Co,FL,Bundled,Investor Owned,0.091608902,0.073936822,0.106422376
+4022,3266,Central Maine Power Co,ME,Bundled,Investor Owned,0.115879828,0,0.15942029
+95161,14328,Pacific Gas & Electric Co,CA,Delivery,Investor Owned,0.071437821,0.046590371,0.146238365
+16417,14711,Pennsylvania Electric Co,PA,Delivery,Investor Owned,0.020927993,0.01129169,0.061388228
+94945,14328,Pacific Gas & Electric Co,CA,Delivery,Investor Owned,0.071437821,0.046590371,0.146238365
+83850,20169,Avista Corp,ID,Bundled,Investor Owned,0.088072539,0.055035802,0.089992133
+38103,814,Entergy Arkansas Inc,TN,Bundled,Investor Owned,0.1275,0.216666667,0.096774194
+47855,15470,Duke Energy Indiana Inc,IN,Bundled,Investor Owned,0.081091666,0.062939441,0.098321732
+49610,4254,Consumers Energy Co,MI,Bundled,Investor Owned,0.112411514,0.081349356,0.133706143
+45122,3542,Duke Energy Ohio Inc,OH,Bundled,Investor Owned,0.128009982,0.119494389,0.121479174
+36702,195,Alabama Power Co,AL,Bundled,Investor Owned,0.105761195,0.060292437,0.114943267
+60468,4110,Commonwealth Edison Co,IL,Delivery,Investor Owned,0.018697463,0.012212514,0.046206542
+92650,17609,Southern California Edison Co,CA,Bundled,Investor Owned,0.125366193,0.090076352,0.144165776
+32443,6457,Florida Public Utilities Co,FL,Bundled,Investor Owned,0.128374611,0.141380625,0.144448916
+2327,54913,NSTAR Electric Company,MA,Delivery,Investor Owned,0.081434042,0.057905047,0.088478719
+18444,14715,PPL Electric Utilities Corp,PA,Delivery,Investor Owned,0.014107527,0.004782847,0.040313882
+27699,5416,Duke Energy Carolinas LLC,NC,Bundled,Investor Owned,0.071565584,0.053408512,0.091544482
+18237,14715,PPL Electric Utilities Corp,PA,Delivery,Investor Owned,0.014107527,0.004782847,0.040313882
+45851,14006,Ohio Power Co,OH,Bundled,Investor Owned,0.094105189,0.054380761,0.112022297
+12141,13573,Niagara Mohawk Power Corp.,NY,Bundled,Investor Owned,0.131290106,0.154663271,0.151591982
+55410,13781,Northern States Power Co - Minnesota,MN,Bundled,Investor Owned,0.084187309,0.068194224,0.111871604
+94620,14328,Pacific Gas & Electric Co,CA,Delivery,Investor Owned,0.071437821,0.046590371,0.146238365
+4016,3266,Central Maine Power Co,ME,Bundled,Investor Owned,0.115879828,0,0.15942029
+27626,5416,Duke Energy Carolinas LLC,NC,Bundled,Investor Owned,0.071565584,0.053408512,0.091544482
+49075,4254,Consumers Energy Co,MI,Bundled,Investor Owned,0.112411514,0.081349356,0.133706143
+55188,13781,Northern States Power Co - Minnesota,MN,Bundled,Investor Owned,0.084187309,0.068194224,0.111871604
+19707,5027,Delmarva Power,DE,Bundled,Investor Owned,0.121576503,0.063048625,0.143532522
+16926,14711,Pennsylvania Electric Co,PA,Delivery,Investor Owned,0.020927993,0.01129169,0.061388228
+6107,4176,Connecticut Light & Power Co,CT,Delivery,Investor Owned,0.061097007,0.044635978,0.078313888
+48426,5109,Detroit Edison Co,MI,Bundled,Investor Owned,0.103319837,0.071105571,0.137187602
+72531,814,Entergy Arkansas Inc,AR,Bundled,Investor Owned,0.073512933,0.059450174,0.090895742
+94403,14328,Pacific Gas & Electric Co,CA,Delivery,Investor Owned,0.071437821,0.046590371,0.146238365
+17604,14715,PPL Electric Utilities Corp,PA,Bundled,Investor Owned,0.144667651,0.263364462,0.1256233
+60629,4110,Commonwealth Edison Co,IL,Delivery,Investor Owned,0.018697463,0.012212514,0.046206542
+4227,3266,Central Maine Power Co,ME,Delivery,Investor Owned,0.038754291,0.020158829,0.065878839
+12811,13573,Niagara Mohawk Power Corp.,NY,Bundled,Investor Owned,0.131290106,0.154663271,0.151591982
+22403,19876,Virginia Electric & Power Co,VA,Bundled,Investor Owned,0.077371394,0.062481359,0.106423208
+48015,5109,Detroit Edison Co,MI,Delivery,Investor Owned,0.022641072,0.011945853,0.058959538
+6133,4176,Connecticut Light & Power Co,CT,Delivery,Investor Owned,0.061097007,0.044635978,0.078313888
+18913,14940,PECO Energy Co,PA,Bundled,Investor Owned,0.128433164,0.09284082,0.155334596
+31208,7140,Georgia Power Co,GA,Bundled,Investor Owned,0.098763907,0.065769411,0.119043403
+6420,4176,Connecticut Light & Power Co,CT,Bundled,Investor Owned,0.15530586,0.124954145,0.172784864
+45385,4922,Dayton Power & Light Co,OH,Delivery,Investor Owned,0.021341892,0.013308016,0.043956727
+29348,5416,Duke Energy Carolinas LLC,SC,Bundled,Investor Owned,0.074022478,0.048084695,0.090687009
+20038,15270,Potomac Electric Power Co,DC,Bundled,Investor Owned,0.143585317,0,0.134360949
+43950,14006,Ohio Power Co,OH,Delivery,Investor Owned,0.021144044,0.016678368,0.041168578
+20781,15270,Potomac Electric Power Co,MD,Delivery,Investor Owned,0.033762332,0.018373916,0.045026216
+60014,4110,Commonwealth Edison Co,IL,Delivery,Investor Owned,0.018697463,0.012212514,0.046206542
+14715,16183,Rochester Gas & Electric Corp,NY,Delivery,Investor Owned,0.043427921,0.031397187,0.058219249
+2115,54913,NSTAR Electric Company,MA,Delivery,Investor Owned,0.081434042,0.057905047,0.088478719
+27621,3046,Progress Energy Carolinas Inc,NC,Bundled,Investor Owned,0.082498909,0.066246849,0.10117792
+95366,14328,Pacific Gas & Electric Co,CA,Delivery,Investor Owned,0.071437821,0.046590371,0.146238365
+17726,14715,PPL Electric Utilities Corp,PA,Bundled,Investor Owned,0.144667651,0.263364462,0.1256233
+20784,15270,Potomac Electric Power Co,MD,Bundled,Investor Owned,0.111585948,0.093642178,0.141357715
+4901,3266,Central Maine Power Co,ME,Bundled,Investor Owned,0.115879828,0,0.15942029
+27404,5416,Duke Energy Carolinas LLC,NC,Bundled,Investor Owned,0.071565584,0.053408512,0.091544482
+19089,14940,PECO Energy Co,PA,Delivery,Investor Owned,0.028273768,0.011468911,0.065596309
+44482,13998,Ohio Edison Co,OH,Delivery,Investor Owned,0.035332739,0.01164377,0.044297461
+21861,5027,Delmarva Power,MD,Delivery,Investor Owned,0.020623473,0.010792457,0.039284877
+72677,814,Entergy Arkansas Inc,AR,Bundled,Investor Owned,0.073512933,0.059450174,0.090895742
+10116,4226,Consolidated Edison Co-NY Inc,NY,Delivery,Investor Owned,0.080395462,0.078472483,0.147757285
+33868,18454,Tampa Electric Co,FL,Bundled,Investor Owned,0.1017651,0.089401686,0.114102766
+53940,20856,Wisconsin Power & Light Co,WI,Bundled,Investor Owned,0.107383529,0.0753834,0.125864333
+18038,14715,PPL Electric Utilities Corp,PA,Delivery,Investor Owned,0.014107527,0.004782847,0.040313882
+32912,6452,Florida Power & Light Co,FL,Bundled,Investor Owned,0.091608902,0.073936822,0.106422376
+18708,19390,UGI Utilities Inc,PA,Delivery,Investor Owned,0.021837204,0.018547523,0.04
+60111,4110,Commonwealth Edison Co,IL,Delivery,Investor Owned,0.018697463,0.012212514,0.046206542
+93423,14328,Pacific Gas & Electric Co,CA,Bundled,Investor Owned,0.142367554,0.094277933,0.153192074
+49961,19578,Upper Peninsula Power Co,MI,Bundled,Investor Owned,0.145608705,0.05837573,0.18344127
+6230,4176,Connecticut Light & Power Co,CT,Delivery,Investor Owned,0.061097007,0.044635978,0.078313888
+97913,9191,Idaho Power Co,OR,Bundled,Investor Owned,0.068679672,0.055154223,0.0824213
+2852,13214,The Narragansett Electric Co,RI,Delivery,Investor Owned,0.042106022,0.033966392,0.061561952
+84511,14354,PacifiCorp,UT,Bundled,Investor Owned,0.07184833,0.049248749,0.090628234
+20837,15263,The Potomac Edison Company,MD,Delivery,Investor Owned,0.022033828,0.013097943,0.030790593
+66501,22500,Westar Energy Inc,KS,Bundled,Investor Owned,0.080520238,0.068371296,0.099272221
+15922,14711,Pennsylvania Electric Co,PA,Bundled,Investor Owned,0.103665282,0.093954613,0.13705844
+12821,13573,Niagara Mohawk Power Corp.,NY,Delivery,Investor Owned,0.060239464,0.037673936,0.090200929
+15423,20387,West Penn Power Company,PA,Delivery,Investor Owned,0.011446967,0.003880767,0.026002226
+84645,14354,PacifiCorp,UT,Bundled,Investor Owned,0.07184833,0.049248749,0.090628234
+56335,13781,Northern States Power Co - Minnesota,MN,Bundled,Investor Owned,0.084187309,0.068194224,0.111871604
+85325,803,Arizona Public Service Co,AZ,Bundled,Investor Owned,0.101075475,0.078327698,0.116110556
+14098,13573,Niagara Mohawk Power Corp.,NY,Bundled,Investor Owned,0.131290106,0.154663271,0.151591982
+45353,4922,Dayton Power & Light Co,OH,Bundled,Investor Owned,0.110168784,0.093546185,0.132174675
+94614,14328,Pacific Gas & Electric Co,CA,Delivery,Investor Owned,0.071437821,0.046590371,0.146238365
+29152,3046,Progress Energy Carolinas Inc,SC,Bundled,Investor Owned,0.088017652,0.061235457,0.098594957
+74350,15474,Public Service Co of Oklahoma,OK,Bundled,Investor Owned,0.06821801,0.048628325,0.084915537
+7092,15477,Public Service Elec & Gas Co,NJ,Delivery,Investor Owned,0.04451107,0.044186001,0.04564344
+3802,15472,Public Service Co of NH,NH,Bundled,Investor Owned,0.159152107,0.190175077,0.169850762
+10265,4226,Consolidated Edison Co-NY Inc,NY,Delivery,Investor Owned,0.080395462,0.078472483,0.147757285
+14456,13511,New York State Elec & Gas Corp,NY,Bundled,Investor Owned,0.096221457,0.058438583,0.108261463
+21531,15263,The Potomac Edison Company,MD,Bundled,Investor Owned,0.108714154,0.080103035,0.107445108
+12566,13511,New York State Elec & Gas Corp,NY,Delivery,Investor Owned,0.029105834,0.01093415,0.046524072
+2878,13214,The Narragansett Electric Co,RI,Bundled,Investor Owned,0.124878893,0.117139315,0.142737988
+95929,14328,Pacific Gas & Electric Co,CA,Bundled,Investor Owned,0.142367554,0.094277933,0.153192074
+44134,3755,Cleveland Electric Illum Co,OH,Bundled,Investor Owned,0.125634338,0.057263611,0.116363088
+4915,3266,Central Maine Power Co,ME,Delivery,Investor Owned,0.038754291,0.020158829,0.065878839
+53562,11479,Madison Gas & Electric Co,WI,Bundled,Investor Owned,0.103443921,0.07380406,0.15157332
+2916,13214,The Narragansett Electric Co,RI,Bundled,Investor Owned,0.124878893,0.117139315,0.142737988
+7007,15477,Public Service Elec & Gas Co,NJ,Delivery,Investor Owned,0.04451107,0.044186001,0.04564344
+83328,9191,Idaho Power Co,ID,Bundled,Investor Owned,0.055579993,0.049492353,0.07404004
+8690,15477,Public Service Elec & Gas Co,NJ,Bundled,Investor Owned,0.136582522,0.066842646,0.165733958
+19535,12390,Metropolitan Edison Co,PA,Bundled,Investor Owned,0.121340576,0.107426201,0.134087433
+20380,15270,Potomac Electric Power Co,DC,Bundled,Investor Owned,0.143585317,0,0.134360949
+17013,14715,PPL Electric Utilities Corp,PA,Bundled,Investor Owned,0.144667651,0.263364462,0.1256233
+25524,733,Appalachian Power Co,WV,Bundled,Investor Owned,0.080700876,0.061641445,0.090634848
+96062,14328,Pacific Gas & Electric Co,CA,Delivery,Investor Owned,0.071437821,0.046590371,0.146238365
+21057,1167,Baltimore Gas & Electric Co,MD,Bundled,Investor Owned,0.118867506,0.104325959,0.137617619
+45254,3542,Duke Energy Ohio Inc,OH,Bundled,Investor Owned,0.128009982,0.119494389,0.121479174
+86413,19728,UNS Electric Inc,AZ,Bundled,Investor Owned,0.100455796,0.078194231,0.098637465
+19549,14715,PPL Electric Utilities Corp,PA,Delivery,Investor Owned,0.014107527,0.004782847,0.040313882
+13118,13511,New York State Elec & Gas Corp,NY,Bundled,Investor Owned,0.096221457,0.058438583,0.108261463
+44481,13998,Ohio Edison Co,OH,Delivery,Investor Owned,0.035332739,0.01164377,0.044297461
+79054,17718,Southwestern Public Service Co,TX,Bundled,Investor Owned,0.068343137,0.04320619,0.090750575
+1302,20455,Western Massachusetts Elec Co,MA,Delivery,Investor Owned,0.067245638,0.050642678,0.076297848
+36274,195,Alabama Power Co,AL,Bundled,Investor Owned,0.105761195,0.060292437,0.114943267
+56920,15270,Potomac Electric Power Co,DC,Bundled,Investor Owned,0.143585317,0,0.134360949
+15220,5487,Duquesne Light Co,PA,Bundled,Investor Owned,0.104442012,0.086683386,0.149769148
+99362,14354,PacifiCorp,WA,Bundled,Investor Owned,0.075047623,0.062496651,0.078569891
+92612,17609,Southern California Edison Co,CA,Delivery,Investor Owned,0.047427465,0.027338937,0.099222044
+16028,20387,West Penn Power Company,PA,Bundled,Investor Owned,0.087653653,0.073657228,0.097829904
+19132,14940,PECO Energy Co,PA,Bundled,Investor Owned,0.128433164,0.09284082,0.155334596
+3222,15472,Public Service Co of NH,NH,Bundled,Investor Owned,0.159152107,0.190175077,0.169850762
+28109,5416,Duke Energy Carolinas LLC,NC,Bundled,Investor Owned,0.071565584,0.053408512,0.091544482
+48757,4254,Consumers Energy Co,MI,Bundled,Investor Owned,0.112411514,0.081349356,0.133706143
+98939,14354,PacifiCorp,WA,Bundled,Investor Owned,0.075047623,0.062496651,0.078569891
+13795,13511,New York State Elec & Gas Corp,NY,Delivery,Investor Owned,0.029105834,0.01093415,0.046524072
+59648,12825,NorthWestern Energy LLC - (MT),MT,Bundled,Investor Owned,0.102187894,0.080272269,0.105844194
+85603,803,Arizona Public Service Co,AZ,Bundled,Investor Owned,0.101075475,0.078327698,0.116110556
+28699,5416,Duke Energy Carolinas LLC,NC,Bundled,Investor Owned,0.071565584,0.053408512,0.091544482
+71602,814,Entergy Arkansas Inc,AR,Bundled,Investor Owned,0.073512933,0.059450174,0.090895742
+20597,15270,Potomac Electric Power Co,DC,Bundled,Investor Owned,0.143585317,0,0.134360949
+10927,14154,Orange & Rockland Utils Inc,NY,Bundled,Investor Owned,0.136398899,0.070398572,0.186024043
+7417,16213,Rockland Electric Co,NJ,Delivery,Investor Owned,0.043786733,0.063908339,0.055286685
+3107,15472,Public Service Co of NH,NH,Delivery,Investor Owned,0.046557711,0.034151942,0.06490993
+19545,12390,Metropolitan Edison Co,PA,Bundled,Investor Owned,0.121340576,0.107426201,0.134087433
+92164,16609,San Diego Gas & Electric Co,CA,Bundled,Investor Owned,0.160506948,0.130422159,0.177039321
+23435,19876,Virginia Electric & Power Co,VA,Bundled,Investor Owned,0.077371394,0.062481359,0.106423208
+15691,20387,West Penn Power Company,PA,Delivery,Investor Owned,0.011446967,0.003880767,0.026002226
+87031,15473,Public Service Co of NM,NM,Bundled,Investor Owned,0.095392108,0.060788651,0.114215332
+21861,5027,Delmarva Power,MD,Bundled,Investor Owned,0.1136776,0.078897915,0.135042033
+49444,4254,Consumers Energy Co,MI,Delivery,Investor Owned,0.013728496,0.008815742,0
+94538,14328,Pacific Gas & Electric Co,CA,Delivery,Investor Owned,0.071437821,0.046590371,0.146238365
+2766,11804,Massachusetts Electric Co,MA,Delivery,Investor Owned,0.044144135,0.037251694,0.057463532
+48307,5109,Detroit Edison Co,MI,Delivery,Investor Owned,0.022641072,0.011945853,0.058959538
+26447,12796,Monongahela Power Co,WV,Bundled,Investor Owned,0.081872266,0.064239576,0.098438045
+89415,17166,Sierra Pacific Power Co,NV,Delivery,Investor Owned,0,0.001590631,0
+85732,24211,Tucson Electric Power Co,AZ,Bundled,Investor Owned,0.109955083,0.07116696,0.098741439
+63332,19436,Union Electric Co - (MO),MO,Bundled,Investor Owned,0.073945246,0.050392067,0.091719389
+42701,10171,Kentucky Utilities Co,KY,Bundled,Investor Owned,0.078753098,0.056557066,0.080245866
+44202,13998,Ohio Edison Co,OH,Bundled,Investor Owned,0.106292845,0.06295084,0.109307305
+3043,15472,Public Service Co of NH,NH,Delivery,Investor Owned,0.046557711,0.034151942,0.06490993
+7677,15477,Public Service Elec & Gas Co,NJ,Bundled,Investor Owned,0.136582522,0.066842646,0.165733958
+98358,15500,Puget Sound Energy Inc,WA,Bundled,Investor Owned,0.094190853,0.089245582,0.103703309
+12839,13573,Niagara Mohawk Power Corp.,NY,Bundled,Investor Owned,0.131290106,0.154663271,0.151591982
+18611,19390,UGI Utilities Inc,PA,Bundled,Investor Owned,0.115893428,0.099818588,0.125692272
+8933,15477,Public Service Elec & Gas Co,NJ,Delivery,Investor Owned,0.04451107,0.044186001,0.04564344
+43977,14006,Ohio Power Co,OH,Bundled,Investor Owned,0.094105189,0.054380761,0.112022297
+12834,13573,Niagara Mohawk Power Corp.,NY,Bundled,Investor Owned,0.131290106,0.154663271,0.151591982
+65347,10000,Kansas City Power & Light Co,MO,Bundled,Investor Owned,0.083928551,0.062785301,0.105223185
+36207,195,Alabama Power Co,AL,Bundled,Investor Owned,0.105761195,0.060292437,0.114943267
+8076,15477,Public Service Elec & Gas Co,NJ,Delivery,Investor Owned,0.04451107,0.044186001,0.04564344
+48189,5109,Detroit Edison Co,MI,Bundled,Investor Owned,0.103319837,0.071105571,0.137187602
+20876,15263,The Potomac Edison Company,MD,Delivery,Investor Owned,0.022033828,0.013097943,0.030790593
+14210,13573,Niagara Mohawk Power Corp.,NY,Delivery,Investor Owned,0.060239464,0.037673936,0.090200929
+60412,4110,Commonwealth Edison Co,IL,Bundled,Investor Owned,0.100818909,0.067280048,0.126237538
+10707,4226,Consolidated Edison Co-NY Inc,NY,Bundled,Investor Owned,0.207022402,0.186480275,0.25588355
+60091,4110,Commonwealth Edison Co,IL,Bundled,Investor Owned,0.100818909,0.067280048,0.126237538
+45370,4922,Dayton Power & Light Co,OH,Bundled,Investor Owned,0.110168784,0.093546185,0.132174675
+35584,195,Alabama Power Co,AL,Bundled,Investor Owned,0.105761195,0.060292437,0.114943267
+16120,14716,Pennsylvania Power Co,PA,Delivery,Investor Owned,0.012388976,0.003491884,0.04443604
+55038,13781,Northern States Power Co - Minnesota,MN,Bundled,Investor Owned,0.084187309,0.068194224,0.111871604
+6498,4176,Connecticut Light & Power Co,CT,Bundled,Investor Owned,0.15530586,0.124954145,0.172784864
+55811,12647,Minnesota Power Inc,MN,Bundled,Investor Owned,0.082149983,0.052162187,0.093756543
+46864,9324,Indiana Michigan Power Co,IN,Bundled,Investor Owned,0.071062015,0.053069734,0.083473938
+20006,15270,Potomac Electric Power Co,DC,Bundled,Investor Owned,0.143585317,0,0.134360949
+44688,14006,Ohio Power Co,OH,Delivery,Investor Owned,0.021144044,0.016678368,0.041168578
+71638,814,Entergy Arkansas Inc,AR,Bundled,Investor Owned,0.073512933,0.059450174,0.090895742
+21263,1167,Baltimore Gas & Electric Co,MD,Delivery,Investor Owned,0.020831967,0.012722466,0.038742255
+11369,4226,Consolidated Edison Co-NY Inc,NY,Bundled,Investor Owned,0.207022402,0.186480275,0.25588355
+65325,12698,KCP&L Greater Missouri Operations Co.,MO,Bundled,Investor Owned,0.082052771,0.061268202,0.10386687
+32562,7801,Gulf Power Co,FL,Bundled,Investor Owned,0.104848571,0.088045842,0.120146985
+63031,19436,Union Electric Co - (MO),MO,Bundled,Investor Owned,0.073945246,0.050392067,0.091719389
+93636,14328,Pacific Gas & Electric Co,CA,Bundled,Investor Owned,0.142367554,0.094277933,0.153192074
+45809,14006,Ohio Power Co,OH,Bundled,Investor Owned,0.094105189,0.054380761,0.112022297
+1524,11804,Massachusetts Electric Co,MA,Delivery,Investor Owned,0.044144135,0.037251694,0.057463532
+16728,20387,West Penn Power Company,PA,Bundled,Investor Owned,0.087653653,0.073657228,0.097829904
+58011,14232,Otter Tail Power Co,ND,Bundled,Investor Owned,0.068268681,0.059734664,0.076911864
+21013,1167,Baltimore Gas & Electric Co,MD,Delivery,Investor Owned,0.020831967,0.012722466,0.038742255
+84737,14354,PacifiCorp,UT,Bundled,Investor Owned,0.07184833,0.049248749,0.090628234
+32902,6452,Florida Power & Light Co,FL,Bundled,Investor Owned,0.091608902,0.073936822,0.106422376
+92365,17609,Southern California Edison Co,CA,Delivery,Investor Owned,0.047427465,0.027338937,0.099222044
+84069,14354,PacifiCorp,UT,Bundled,Investor Owned,0.07184833,0.049248749,0.090628234
+4927,3266,Central Maine Power Co,ME,Bundled,Investor Owned,0.115879828,0,0.15942029
+16364,14711,Pennsylvania Electric Co,PA,Bundled,Investor Owned,0.103665282,0.093954613,0.13705844
+97014,14354,PacifiCorp,OR,Bundled,Investor Owned,0.081467295,0.06387809,0.097299825
+90505,17609,Southern California Edison Co,CA,Bundled,Investor Owned,0.125366193,0.090076352,0.144165776
+48618,4254,Consumers Energy Co,MI,Bundled,Investor Owned,0.112411514,0.081349356,0.133706143
+75631,17698,Southwestern Electric Power Co,TX,Bundled,Investor Owned,0.063361498,0.052386981,0.07869612
+6075,4176,Connecticut Light & Power Co,CT,Delivery,Investor Owned,0.061097007,0.044635978,0.078313888
+6018,4176,Connecticut Light & Power Co,CT,Bundled,Investor Owned,0.15530586,0.124954145,0.172784864
+53102,20847,Wisconsin Electric Power Co,WI,Bundled,Investor Owned,0.114723711,0.082369572,0.139680753
+18044,12390,Metropolitan Edison Co,PA,Delivery,Investor Owned,0.025393569,0.010711085,0.046044189
+17272,20387,West Penn Power Company,PA,Bundled,Investor Owned,0.087653653,0.073657228,0.097829904
+44012,3755,Cleveland Electric Illum Co,OH,Bundled,Investor Owned,0.125634338,0.057263611,0.116363088
+6520,19497,United Illuminating Co,CT,Bundled,Investor Owned,0.173161787,0.149270954,0.222593624
+49101,9324,Indiana Michigan Power Co,MI,Bundled,Investor Owned,0.086556057,0.070679595,0.085535291
+60457,4110,Commonwealth Edison Co,IL,Bundled,Investor Owned,0.100818909,0.067280048,0.126237538
+70549,55936,Entergy Gulf States - LA LLC,LA,Bundled,Investor Owned,0.08007591,0.054237805,0.088990847
+42024,10171,Kentucky Utilities Co,KY,Bundled,Investor Owned,0.078753098,0.056557066,0.080245866
+88558,5701,El Paso Electric Co,TX,Bundled,Investor Owned,0.104321264,0.068396185,0.118689772
+95471,14328,Pacific Gas & Electric Co,CA,Delivery,Investor Owned,0.071437821,0.046590371,0.146238365
+94021,14328,Pacific Gas & Electric Co,CA,Bundled,Investor Owned,0.142367554,0.094277933,0.153192074
+17249,14711,Pennsylvania Electric Co,PA,Bundled,Investor Owned,0.103665282,0.093954613,0.13705844
+93729,14328,Pacific Gas & Electric Co,CA,Delivery,Investor Owned,0.071437821,0.046590371,0.146238365
+93040,17609,Southern California Edison Co,CA,Delivery,Investor Owned,0.047427465,0.027338937,0.099222044
+86343,803,Arizona Public Service Co,AZ,Bundled,Investor Owned,0.101075475,0.078327698,0.116110556
+24066,19876,Virginia Electric & Power Co,VA,Bundled,Investor Owned,0.077371394,0.062481359,0.106423208
+10467,4226,Consolidated Edison Co-NY Inc,NY,Bundled,Investor Owned,0.207022402,0.186480275,0.25588355
+34102,6452,Florida Power & Light Co,FL,Bundled,Investor Owned,0.091608902,0.073936822,0.106422376
+41183,22053,Kentucky Power Co,KY,Bundled,Investor Owned,0.09857028,0.060267867,0.096570014
+8817,15477,Public Service Elec & Gas Co,NJ,Bundled,Investor Owned,0.136582522,0.066842646,0.165733958
+24370,733,Appalachian Power Co,VA,Bundled,Investor Owned,0.074521265,0.056596323,0.093569937
+63019,19436,Union Electric Co - (MO),MO,Bundled,Investor Owned,0.073945246,0.050392067,0.091719389
+1813,54913,NSTAR Electric Company,MA,Delivery,Investor Owned,0.081434042,0.057905047,0.088478719
+44281,13998,Ohio Edison Co,OH,Delivery,Investor Owned,0.035332739,0.01164377,0.044297461
+14883,13511,New York State Elec & Gas Corp,NY,Bundled,Investor Owned,0.096221457,0.058438583,0.108261463
+89195,13407,Nevada Power Co,NV,Delivery,Investor Owned,0.010302256,0,0
+43603,18997,The Toledo Edison Co,OH,Delivery,Investor Owned,0.043203287,0.004030017,0.050900753
+91001,17609,Southern California Edison Co,CA,Bundled,Investor Owned,0.125366193,0.090076352,0.144165776
+44429,13998,Ohio Edison Co,OH,Delivery,Investor Owned,0.035332739,0.01164377,0.044297461
+48727,5109,Detroit Edison Co,MI,Delivery,Investor Owned,0.022641072,0.011945853,0.058959538
+32829,6455,Progress Energy Florida Inc,FL,Bundled,Investor Owned,0.098718164,0.08774184,0.128041631
+20420,15270,Potomac Electric Power Co,DC,Bundled,Investor Owned,0.143585317,0,0.134360949
+15963,14711,Pennsylvania Electric Co,PA,Bundled,Investor Owned,0.103665282,0.093954613,0.13705844
+73116,14063,Oklahoma Gas & Electric Co,OK,Bundled,Investor Owned,0.073935975,0.054263465,0.096698525
+66617,22500,Westar Energy Inc,KS,Bundled,Investor Owned,0.080520238,0.068371296,0.099272221
+92838,17609,Southern California Edison Co,CA,Bundled,Investor Owned,0.125366193,0.090076352,0.144165776
+7601,15477,Public Service Elec & Gas Co,NJ,Bundled,Investor Owned,0.136582522,0.066842646,0.165733958
+3301,24590,Unitil Energy Systems,NH,Delivery,Investor Owned,0.055440218,0.038409399,0.064281191
+13775,13511,New York State Elec & Gas Corp,NY,Bundled,Investor Owned,0.096221457,0.058438583,0.108261463
+35457,195,Alabama Power Co,AL,Bundled,Investor Owned,0.105761195,0.060292437,0.114943267
+14818,13511,New York State Elec & Gas Corp,NY,Bundled,Investor Owned,0.096221457,0.058438583,0.108261463
+41181,22053,Kentucky Power Co,KY,Bundled,Investor Owned,0.09857028,0.060267867,0.096570014
+95448,14328,Pacific Gas & Electric Co,CA,Bundled,Investor Owned,0.142367554,0.094277933,0.153192074
+61254,12341,MidAmerican Energy Co,IL,Delivery,Investor Owned,0.011317196,0,0
+94946,14328,Pacific Gas & Electric Co,CA,Bundled,Investor Owned,0.142367554,0.094277933,0.153192074
+11360,4226,Consolidated Edison Co-NY Inc,NY,Bundled,Investor Owned,0.207022402,0.186480275,0.25588355
+97533,14354,PacifiCorp,OR,Delivery,Investor Owned,0.03759443,0,0
+12451,3249,Central Hudson Gas & Elec Corp,NY,Delivery,Investor Owned,0.033787692,0.014062232,0.084924479
+95445,14328,Pacific Gas & Electric Co,CA,Bundled,Investor Owned,0.142367554,0.094277933,0.153192074
+52158,9417,Interstate Power and Light Co,IA,Bundled,Investor Owned,0.092234317,0.058968641,0.130070934
+1966,11804,Massachusetts Electric Co,MA,Delivery,Investor Owned,0.044144135,0.037251694,0.057463532
+44685,13998,Ohio Edison Co,OH,Delivery,Investor Owned,0.035332739,0.01164377,0.044297461
+2652,54913,NSTAR Electric Company,MA,Delivery,Investor Owned,0.081434042,0.057905047,0.088478719
+6260,4176,Connecticut Light & Power Co,CT,Bundled,Investor Owned,0.15530586,0.124954145,0.172784864
+19930,5027,Delmarva Power,DE,Bundled,Investor Owned,0.121576503,0.063048625,0.143532522
+17868,14715,PPL Electric Utilities Corp,PA,Delivery,Investor Owned,0.014107527,0.004782847,0.040313882
+92883,17609,Southern California Edison Co,CA,Delivery,Investor Owned,0.047427465,0.027338937,0.099222044
+3885,24590,Unitil Energy Systems,NH,Delivery,Investor Owned,0.055440218,0.038409399,0.064281191
+4041,3266,Central Maine Power Co,ME,Bundled,Investor Owned,0.115879828,0,0.15942029
+93222,17609,Southern California Edison Co,CA,Bundled,Investor Owned,0.125366193,0.090076352,0.144165776
+18470,14715,PPL Electric Utilities Corp,PA,Bundled,Investor Owned,0.144667651,0.263364462,0.1256233
+85710,24211,Tucson Electric Power Co,AZ,Bundled,Investor Owned,0.109955083,0.07116696,0.098741439
+25962,733,Appalachian Power Co,WV,Bundled,Investor Owned,0.080700876,0.061641445,0.090634848
+71711,814,Entergy Arkansas Inc,AR,Bundled,Investor Owned,0.073512933,0.059450174,0.090895742
+95926,14328,Pacific Gas & Electric Co,CA,Delivery,Investor Owned,0.071437821,0.046590371,0.146238365
+49841,19578,Upper Peninsula Power Co,MI,Bundled,Investor Owned,0.145608705,0.05837573,0.18344127
+16667,14711,Pennsylvania Electric Co,PA,Delivery,Investor Owned,0.020927993,0.01129169,0.061388228
+71172,17698,Southwestern Electric Power Co,LA,Bundled,Investor Owned,0.06886631,0.057475098,0.081692987
+58601,12199,Montana-Dakota Utilities Co,ND,Bundled,Investor Owned,0.074605034,0.060396383,0.079774223
+92341,17609,Southern California Edison Co,CA,Delivery,Investor Owned,0.047427465,0.027338937,0.099222044
+3842,24590,Unitil Energy Systems,NH,Bundled,Investor Owned,0.142787706,0.117416244,0.138139412
+16141,14716,Pennsylvania Power Co,PA,Delivery,Investor Owned,0.012388976,0.003491884,0.04443604
+1922,11804,Massachusetts Electric Co,MA,Bundled,Investor Owned,0.134146917,0.123324397,0.134916962
+17580,14715,PPL Electric Utilities Corp,PA,Bundled,Investor Owned,0.144667651,0.263364462,0.1256233
+12490,3249,Central Hudson Gas & Elec Corp,NY,Delivery,Investor Owned,0.033787692,0.014062232,0.084924479
+98378,15500,Puget Sound Energy Inc,WA,Delivery,Investor Owned,0.008515608,0.004981553,0
+74071,14063,Oklahoma Gas & Electric Co,OK,Bundled,Investor Owned,0.073935975,0.054263465,0.096698525
+73065,15474,Public Service Co of Oklahoma,OK,Bundled,Investor Owned,0.06821801,0.048628325,0.084915537
+2882,13214,The Narragansett Electric Co,RI,Bundled,Investor Owned,0.124878893,0.117139315,0.142737988
+49645,4254,Consumers Energy Co,MI,Bundled,Investor Owned,0.112411514,0.081349356,0.133706143
+90747,17609,Southern California Edison Co,CA,Bundled,Investor Owned,0.125366193,0.090076352,0.144165776
+20883,15270,Potomac Electric Power Co,MD,Delivery,Investor Owned,0.033762332,0.018373916,0.045026216
+6494,19497,United Illuminating Co,CT,Delivery,Investor Owned,0.071346558,0.060197032,0.11658636
+29030,17539,South Carolina Electric&Gas Co,SC,Bundled,Investor Owned,0.102813097,0.069463774,0.12513854
+15133,5487,Duquesne Light Co,PA,Bundled,Investor Owned,0.104442012,0.086683386,0.149769148
+20406,15270,Potomac Electric Power Co,DC,Bundled,Investor Owned,0.143585317,0,0.134360949
+51501,12341,MidAmerican Energy Co,IA,Bundled,Investor Owned,0.064814317,0.040821961,0.083954831
+19132,14940,PECO Energy Co,PA,Delivery,Investor Owned,0.028273768,0.011468911,0.065596309
+84049,14354,PacifiCorp,UT,Bundled,Investor Owned,0.07184833,0.049248749,0.090628234
+21542,15263,The Potomac Edison Company,MD,Bundled,Investor Owned,0.108714154,0.080103035,0.107445108
+91911,16609,San Diego Gas & Electric Co,CA,Delivery,Investor Owned,0.059179341,0.038634004,0.080602437
+86002,803,Arizona Public Service Co,AZ,Bundled,Investor Owned,0.101075475,0.078327698,0.116110556
+12879,13573,Niagara Mohawk Power Corp.,NY,Bundled,Investor Owned,0.131290106,0.154663271,0.151591982
+21090,1167,Baltimore Gas & Electric Co,MD,Bundled,Investor Owned,0.118867506,0.104325959,0.137617619
+18958,14940,PECO Energy Co,PA,Delivery,Investor Owned,0.028273768,0.011468911,0.065596309
+80256,15466,Public Service Co of Colorado,CO,Bundled,Investor Owned,0.095243706,0.065386443,0.111930008
+6127,4176,Connecticut Light & Power Co,CT,Delivery,Investor Owned,0.061097007,0.044635978,0.078313888
+12065,13573,Niagara Mohawk Power Corp.,NY,Delivery,Investor Owned,0.060239464,0.037673936,0.090200929
+48849,4254,Consumers Energy Co,MI,Bundled,Investor Owned,0.112411514,0.081349356,0.133706143
+71316,11241,Entergy Louisiana Inc,LA,Bundled,Investor Owned,0.088846754,0.054731296,0.088922803
+36113,195,Alabama Power Co,AL,Bundled,Investor Owned,0.105761195,0.060292437,0.114943267
+43555,18997,The Toledo Edison Co,OH,Bundled,Investor Owned,0.126733142,0.037189295,0.117686492
+97604,14354,PacifiCorp,OR,Bundled,Investor Owned,0.081467295,0.06387809,0.097299825
+14056,13573,Niagara Mohawk Power Corp.,NY,Bundled,Investor Owned,0.131290106,0.154663271,0.151591982
+15639,20387,West Penn Power Company,PA,Delivery,Investor Owned,0.011446967,0.003880767,0.026002226
+72068,814,Entergy Arkansas Inc,AR,Bundled,Investor Owned,0.073512933,0.059450174,0.090895742
+96155,14328,Pacific Gas & Electric Co,CA,Delivery,Investor Owned,0.071437821,0.046590371,0.146238365
+25053,733,Appalachian Power Co,WV,Bundled,Investor Owned,0.080700876,0.061641445,0.090634848
+50123,9417,Interstate Power and Light Co,IA,Bundled,Investor Owned,0.092234317,0.058968641,0.130070934
+6492,19497,United Illuminating Co,CT,Bundled,Investor Owned,0.173161787,0.149270954,0.222593624
+17403,12390,Metropolitan Edison Co,PA,Bundled,Investor Owned,0.121340576,0.107426201,0.134087433
+33610,18454,Tampa Electric Co,FL,Bundled,Investor Owned,0.1017651,0.089401686,0.114102766
+63846,19436,Union Electric Co - (MO),MO,Bundled,Investor Owned,0.073945246,0.050392067,0.091719389
+16803,20387,West Penn Power Company,PA,Delivery,Investor Owned,0.011446967,0.003880767,0.026002226
+93553,17609,Southern California Edison Co,CA,Delivery,Investor Owned,0.047427465,0.027338937,0.099222044
+44695,14006,Ohio Power Co,OH,Delivery,Investor Owned,0.021144044,0.016678368,0.041168578
+17065,12390,Metropolitan Edison Co,PA,Bundled,Investor Owned,0.121340576,0.107426201,0.134087433
+27973,19876,Virginia Electric & Power Co,NC,Bundled,Investor Owned,0.078335428,0.048084914,0.09215705
+45061,3542,Duke Energy Ohio Inc,OH,Bundled,Investor Owned,0.128009982,0.119494389,0.121479174
+66409,22500,Westar Energy Inc,KS,Bundled,Investor Owned,0.080520238,0.068371296,0.099272221
+97388,14354,PacifiCorp,OR,Delivery,Investor Owned,0.03759443,0,0
+32911,6452,Florida Power & Light Co,FL,Bundled,Investor Owned,0.091608902,0.073936822,0.106422376
+20814,15270,Potomac Electric Power Co,MD,Delivery,Investor Owned,0.033762332,0.018373916,0.045026216
+95468,14328,Pacific Gas & Electric Co,CA,Bundled,Investor Owned,0.142367554,0.094277933,0.153192074
+45130,3542,Duke Energy Ohio Inc,OH,Bundled,Investor Owned,0.128009982,0.119494389,0.121479174
+13786,13511,New York State Elec & Gas Corp,NY,Bundled,Investor Owned,0.096221457,0.058438583,0.108261463
+91987,16609,San Diego Gas & Electric Co,CA,Bundled,Investor Owned,0.160506948,0.130422159,0.177039321
+15853,20387,West Penn Power Company,PA,Bundled,Investor Owned,0.087653653,0.073657228,0.097829904
+83352,9191,Idaho Power Co,ID,Bundled,Investor Owned,0.055579993,0.049492353,0.07404004
+19063,14940,PECO Energy Co,PA,Delivery,Investor Owned,0.028273768,0.011468911,0.065596309
+83535,20169,Avista Corp,ID,Bundled,Investor Owned,0.088072539,0.055035802,0.089992133
+32706,6452,Florida Power & Light Co,FL,Bundled,Investor Owned,0.091608902,0.073936822,0.106422376
+92658,17609,Southern California Edison Co,CA,Delivery,Investor Owned,0.047427465,0.027338937,0.099222044
+47638,17633,Southern Indiana Gas & Elec Co,IN,Bundled,Investor Owned,0.121595312,0.077751919,0.142065053
+61073,4110,Commonwealth Edison Co,IL,Bundled,Investor Owned,0.100818909,0.067280048,0.126237538
+90261,17609,Southern California Edison Co,CA,Delivery,Investor Owned,0.047427465,0.027338937,0.099222044
+38628,12685,Entergy Mississippi Inc,MS,Bundled,Investor Owned,0.081224712,0.062666798,0.083803185
+14028,13573,Niagara Mohawk Power Corp.,NY,Bundled,Investor Owned,0.131290106,0.154663271,0.151591982
+80239,15466,Public Service Co of Colorado,CO,Bundled,Investor Owned,0.095243706,0.065386443,0.111930008
+33674,18454,Tampa Electric Co,FL,Bundled,Investor Owned,0.1017651,0.089401686,0.114102766
+60689,4110,Commonwealth Edison Co,IL,Delivery,Investor Owned,0.018697463,0.012212514,0.046206542
+17006,14711,Pennsylvania Electric Co,PA,Delivery,Investor Owned,0.020927993,0.01129169,0.061388228
+61077,4110,Commonwealth Edison Co,IL,Delivery,Investor Owned,0.018697463,0.012212514,0.046206542
+35010,195,Alabama Power Co,AL,Bundled,Investor Owned,0.105761195,0.060292437,0.114943267
+6824,19497,United Illuminating Co,CT,Delivery,Investor Owned,0.071346558,0.060197032,0.11658636
+4846,3266,Central Maine Power Co,ME,Bundled,Investor Owned,0.115879828,0,0.15942029
+32341,6455,Progress Energy Florida Inc,FL,Bundled,Investor Owned,0.098718164,0.08774184,0.128041631
+15490,20387,West Penn Power Company,PA,Bundled,Investor Owned,0.087653653,0.073657228,0.097829904
+93725,14328,Pacific Gas & Electric Co,CA,Delivery,Investor Owned,0.071437821,0.046590371,0.146238365
+3055,15472,Public Service Co of NH,NH,Delivery,Investor Owned,0.046557711,0.034151942,0.06490993
+13353,13573,Niagara Mohawk Power Corp.,NY,Delivery,Investor Owned,0.060239464,0.037673936,0.090200929
+12927,13573,Niagara Mohawk Power Corp.,NY,Delivery,Investor Owned,0.060239464,0.037673936,0.090200929
+49072,4254,Consumers Energy Co,MI,Delivery,Investor Owned,0.013728496,0.008815742,0
+10126,4226,Consolidated Edison Co-NY Inc,NY,Bundled,Investor Owned,0.207022402,0.186480275,0.25588355
+93776,14328,Pacific Gas & Electric Co,CA,Bundled,Investor Owned,0.142367554,0.094277933,0.153192074
+8862,15477,Public Service Elec & Gas Co,NJ,Delivery,Investor Owned,0.04451107,0.044186001,0.04564344
+93715,14328,Pacific Gas & Electric Co,CA,Delivery,Investor Owned,0.071437821,0.046590371,0.146238365
+12132,13511,New York State Elec & Gas Corp,NY,Bundled,Investor Owned,0.096221457,0.058438583,0.108261463
+18084,14940,PECO Energy Co,PA,Delivery,Investor Owned,0.028273768,0.011468911,0.065596309
+17243,14711,Pennsylvania Electric Co,PA,Bundled,Investor Owned,0.103665282,0.093954613,0.13705844
+8604,15477,Public Service Elec & Gas Co,NJ,Delivery,Investor Owned,0.04451107,0.044186001,0.04564344
+83314,9191,Idaho Power Co,ID,Bundled,Investor Owned,0.055579993,0.049492353,0.07404004
+48314,5109,Detroit Edison Co,MI,Delivery,Investor Owned,0.022641072,0.011945853,0.058959538
+91077,17609,Southern California Edison Co,CA,Bundled,Investor Owned,0.125366193,0.090076352,0.144165776
+12417,3249,Central Hudson Gas & Elec Corp,NY,Delivery,Investor Owned,0.033787692,0.014062232,0.084924479
+27113,5416,Duke Energy Carolinas LLC,NC,Bundled,Investor Owned,0.071565584,0.053408512,0.091544482
+19018,14940,PECO Energy Co,PA,Delivery,Investor Owned,0.028273768,0.011468911,0.065596309
+21092,1167,Baltimore Gas & Electric Co,MD,Bundled,Investor Owned,0.118867506,0.104325959,0.137617619
+31791,7140,Georgia Power Co,GA,Bundled,Investor Owned,0.098763907,0.065769411,0.119043403
+45345,4922,Dayton Power & Light Co,OH,Bundled,Investor Owned,0.110168784,0.093546185,0.132174675
+58266,14232,Otter Tail Power Co,ND,Bundled,Investor Owned,0.068268681,0.059734664,0.076911864
+26815,12796,Monongahela Power Co,WV,Bundled,Investor Owned,0.081872266,0.064239576,0.098438045
+33311,6452,Florida Power & Light Co,FL,Bundled,Investor Owned,0.091608902,0.073936822,0.106422376
+95012,14328,Pacific Gas & Electric Co,CA,Delivery,Investor Owned,0.071437821,0.046590371,0.146238365
+92418,17609,Southern California Edison Co,CA,Bundled,Investor Owned,0.125366193,0.090076352,0.144165776
+43018,14006,Ohio Power Co,OH,Bundled,Investor Owned,0.094105189,0.054380761,0.112022297
+93771,14328,Pacific Gas & Electric Co,CA,Delivery,Investor Owned,0.071437821,0.046590371,0.146238365
+96038,14354,PacifiCorp,CA,Bundled,Investor Owned,0.119015611,0.113856261,0.12880757
+11212,4226,Consolidated Edison Co-NY Inc,NY,Delivery,Investor Owned,0.080395462,0.078472483,0.147757285
+17602,14715,PPL Electric Utilities Corp,PA,Bundled,Investor Owned,0.144667651,0.263364462,0.1256233
+12781,14154,Orange & Rockland Utils Inc,NY,Delivery,Investor Owned,0.051885114,0.030335244,0.087421006
+14845,13511,New York State Elec & Gas Corp,NY,Delivery,Investor Owned,0.029105834,0.01093415,0.046524072
+15690,20387,West Penn Power Company,PA,Bundled,Investor Owned,0.087653653,0.073657228,0.097829904
+2301,11804,Massachusetts Electric Co,MA,Delivery,Investor Owned,0.044144135,0.037251694,0.057463532
+48023,5109,Detroit Edison Co,MI,Bundled,Investor Owned,0.103319837,0.071105571,0.137187602
+94549,14328,Pacific Gas & Electric Co,CA,Bundled,Investor Owned,0.142367554,0.094277933,0.153192074
+50479,9417,Interstate Power and Light Co,IA,Bundled,Investor Owned,0.092234317,0.058968641,0.130070934
+48135,5109,Detroit Edison Co,MI,Bundled,Investor Owned,0.103319837,0.071105571,0.137187602
+13608,13573,Niagara Mohawk Power Corp.,NY,Delivery,Investor Owned,0.060239464,0.037673936,0.090200929
+53187,20847,Wisconsin Electric Power Co,WI,Bundled,Investor Owned,0.114723711,0.082369572,0.139680753
+2142,54913,NSTAR Electric Company,MA,Delivery,Investor Owned,0.081434042,0.057905047,0.088478719
+33433,6452,Florida Power & Light Co,FL,Bundled,Investor Owned,0.091608902,0.073936822,0.106422376
+91390,17609,Southern California Edison Co,CA,Delivery,Investor Owned,0.047427465,0.027338937,0.099222044
+77639,55937,Entergy Texas Inc.,TX,Bundled,Investor Owned,0.076956634,0.056338211,0.096686619
+49262,4254,Consumers Energy Co,MI,Bundled,Investor Owned,0.112411514,0.081349356,0.133706143
+12022,13511,New York State Elec & Gas Corp,NY,Bundled,Investor Owned,0.096221457,0.058438583,0.108261463
+92859,17609,Southern California Edison Co,CA,Delivery,Investor Owned,0.047427465,0.027338937,0.099222044
+1008,20455,Western Massachusetts Elec Co,MA,Delivery,Investor Owned,0.067245638,0.050642678,0.076297848
+4085,3266,Central Maine Power Co,ME,Delivery,Investor Owned,0.038754291,0.020158829,0.065878839
+65064,19436,Union Electric Co - (MO),MO,Bundled,Investor Owned,0.073945246,0.050392067,0.091719389
+3595,15472,Public Service Co of NH,NH,Delivery,Investor Owned,0.046557711,0.034151942,0.06490993
+18815,14711,Pennsylvania Electric Co,PA,Delivery,Investor Owned,0.020927993,0.01129169,0.061388228
+16035,20387,West Penn Power Company,PA,Delivery,Investor Owned,0.011446967,0.003880767,0.026002226
+19004,14940,PECO Energy Co,PA,Delivery,Investor Owned,0.028273768,0.011468911,0.065596309
+1521,11804,Massachusetts Electric Co,MA,Bundled,Investor Owned,0.134146917,0.123324397,0.134916962
+27216,5416,Duke Energy Carolinas LLC,NC,Bundled,Investor Owned,0.071565584,0.053408512,0.091544482
+95913,14328,Pacific Gas & Electric Co,CA,Delivery,Investor Owned,0.071437821,0.046590371,0.146238365
+19481,14940,PECO Energy Co,PA,Bundled,Investor Owned,0.128433164,0.09284082,0.155334596
+91976,16609,San Diego Gas & Electric Co,CA,Bundled,Investor Owned,0.160506948,0.130422159,0.177039321
+97734,14354,PacifiCorp,OR,Delivery,Investor Owned,0.03759443,0,0
+16428,14711,Pennsylvania Electric Co,PA,Delivery,Investor Owned,0.020927993,0.01129169,0.061388228
+97124,15248,Portland General Electric Co,OR,Bundled,Investor Owned,0.088319388,0.062413187,0.108028672
+2370,11804,Massachusetts Electric Co,MA,Delivery,Investor Owned,0.044144135,0.037251694,0.057463532
+21802,5027,Delmarva Power,MD,Bundled,Investor Owned,0.1136776,0.078897915,0.135042033
+49128,9324,Indiana Michigan Power Co,MI,Bundled,Investor Owned,0.086556057,0.070679595,0.085535291
+89045,17166,Sierra Pacific Power Co,NV,Bundled,Investor Owned,0.097769156,0.061955426,0.111181131
+17551,14715,PPL Electric Utilities Corp,PA,Delivery,Investor Owned,0.014107527,0.004782847,0.040313882
+79928,5701,El Paso Electric Co,TX,Bundled,Investor Owned,0.104321264,0.068396185,0.118689772
+46255,9273,Indianapolis Power & Light Co,IN,Bundled,Investor Owned,0.095031555,0.068846527,0.0832219
+26234,12796,Monongahela Power Co,WV,Bundled,Investor Owned,0.081872266,0.064239576,0.098438045
+27518,5416,Duke Energy Carolinas LLC,NC,Bundled,Investor Owned,0.071565584,0.053408512,0.091544482
+13220,13573,Niagara Mohawk Power Corp.,NY,Delivery,Investor Owned,0.060239464,0.037673936,0.090200929
+66783,10005,Kansas Gas & Electric Co,KS,Bundled,Investor Owned,0.080526705,0.058918962,0.099225667
+77316,55937,Entergy Texas Inc.,TX,Bundled,Investor Owned,0.076956634,0.056338211,0.096686619
+92338,17609,Southern California Edison Co,CA,Bundled,Investor Owned,0.125366193,0.090076352,0.144165776
+21029,1167,Baltimore Gas & Electric Co,MD,Bundled,Investor Owned,0.118867506,0.104325959,0.137617619
+63384,19436,Union Electric Co - (MO),MO,Bundled,Investor Owned,0.073945246,0.050392067,0.091719389
+21240,1167,Baltimore Gas & Electric Co,MD,Bundled,Investor Owned,0.118867506,0.104325959,0.137617619
+48629,4254,Consumers Energy Co,MI,Delivery,Investor Owned,0.013728496,0.008815742,0
+44730,14006,Ohio Power Co,OH,Delivery,Investor Owned,0.021144044,0.016678368,0.041168578
+92701,17609,Southern California Edison Co,CA,Delivery,Investor Owned,0.047427465,0.027338937,0.099222044
+31512,7140,Georgia Power Co,GA,Bundled,Investor Owned,0.098763907,0.065769411,0.119043403
+97423,14354,PacifiCorp,OR,Delivery,Investor Owned,0.03759443,0,0
+82301,14354,PacifiCorp,WY,Bundled,Investor Owned,0.075856806,0.05225231,0.091012205
+25510,733,Appalachian Power Co,WV,Bundled,Investor Owned,0.080700876,0.061641445,0.090634848
+48093,5109,Detroit Edison Co,MI,Bundled,Investor Owned,0.103319837,0.071105571,0.137187602
+48821,4254,Consumers Energy Co,MI,Bundled,Investor Owned,0.112411514,0.081349356,0.133706143
+59404,12825,NorthWestern Energy LLC - (MT),MT,Delivery,Investor Owned,0.023130729,0.004845959,0.037398374
+19409,14940,PECO Energy Co,PA,Delivery,Investor Owned,0.028273768,0.011468911,0.065596309
+7077,15477,Public Service Elec & Gas Co,NJ,Delivery,Investor Owned,0.04451107,0.044186001,0.04564344
+14507,13511,New York State Elec & Gas Corp,NY,Bundled,Investor Owned,0.096221457,0.058438583,0.108261463
+95201,14328,Pacific Gas & Electric Co,CA,Bundled,Investor Owned,0.142367554,0.094277933,0.153192074
+35052,195,Alabama Power Co,AL,Bundled,Investor Owned,0.105761195,0.060292437,0.114943267
+32906,6452,Florida Power & Light Co,FL,Bundled,Investor Owned,0.091608902,0.073936822,0.106422376
+7823,9726,Jersey Central Power & Lt Co,NJ,Bundled,Investor Owned,0.152577037,0.133994295,0.157644275
+12301,13573,Niagara Mohawk Power Corp.,NY,Bundled,Investor Owned,0.131290106,0.154663271,0.151591982
+58721,12199,Montana-Dakota Utilities Co,ND,Bundled,Investor Owned,0.074605034,0.060396383,0.079774223
+7080,15477,Public Service Elec & Gas Co,NJ,Bundled,Investor Owned,0.136582522,0.066842646,0.165733958
+72412,814,Entergy Arkansas Inc,AR,Bundled,Investor Owned,0.073512933,0.059450174,0.090895742
+26253,12796,Monongahela Power Co,WV,Bundled,Investor Owned,0.081872266,0.064239576,0.098438045
+61062,4110,Commonwealth Edison Co,IL,Bundled,Investor Owned,0.100818909,0.067280048,0.126237538
+61109,4110,Commonwealth Edison Co,IL,Bundled,Investor Owned,0.100818909,0.067280048,0.126237538
+19064,14940,PECO Energy Co,PA,Delivery,Investor Owned,0.028273768,0.011468911,0.065596309
+63533,19436,Union Electric Co - (MO),MO,Bundled,Investor Owned,0.073945246,0.050392067,0.091719389
+18636,19390,UGI Utilities Inc,PA,Bundled,Investor Owned,0.115893428,0.099818588,0.125692272
+1354,20455,Western Massachusetts Elec Co,MA,Bundled,Investor Owned,0.142065062,0.121061049,0.146917564
+48723,5109,Detroit Edison Co,MI,Delivery,Investor Owned,0.022641072,0.011945853,0.058959538
+40324,10171,Kentucky Utilities Co,KY,Bundled,Investor Owned,0.078753098,0.056557066,0.080245866
+2663,54913,NSTAR Electric Company,MA,Bundled,Investor Owned,0.165163137,0.137749146,0.162306859
+44471,13998,Ohio Edison Co,OH,Bundled,Investor Owned,0.106292845,0.06295084,0.109307305
+4565,3266,Central Maine Power Co,ME,Delivery,Investor Owned,0.038754291,0.020158829,0.065878839
+8030,15477,Public Service Elec & Gas Co,NJ,Bundled,Investor Owned,0.136582522,0.066842646,0.165733958
+13417,13573,Niagara Mohawk Power Corp.,NY,Delivery,Investor Owned,0.060239464,0.037673936,0.090200929
+84742,14354,PacifiCorp,UT,Bundled,Investor Owned,0.07184833,0.049248749,0.090628234
+60419,4110,Commonwealth Edison Co,IL,Bundled,Investor Owned,0.100818909,0.067280048,0.126237538
+60540,4110,Commonwealth Edison Co,IL,Delivery,Investor Owned,0.018697463,0.012212514,0.046206542
+34749,6455,Progress Energy Florida Inc,FL,Bundled,Investor Owned,0.098718164,0.08774184,0.128041631
+93771,14328,Pacific Gas & Electric Co,CA,Bundled,Investor Owned,0.142367554,0.094277933,0.153192074
+16053,14716,Pennsylvania Power Co,PA,Bundled,Investor Owned,0.091509864,0.061156835,0.112412234
+83642,9191,Idaho Power Co,ID,Bundled,Investor Owned,0.055579993,0.049492353,0.07404004
+45233,3542,Duke Energy Ohio Inc,OH,Delivery,Investor Owned,0.020902728,0.008034678,0.03709306
+1010,11804,Massachusetts Electric Co,MA,Bundled,Investor Owned,0.134146917,0.123324397,0.134916962
+45828,4922,Dayton Power & Light Co,OH,Delivery,Investor Owned,0.021341892,0.013308016,0.043956727
+17302,14940,PECO Energy Co,PA,Bundled,Investor Owned,0.128433164,0.09284082,0.155334596
+19065,14940,PECO Energy Co,PA,Delivery,Investor Owned,0.028273768,0.011468911,0.065596309
+48607,4254,Consumers Energy Co,MI,Bundled,Investor Owned,0.112411514,0.081349356,0.133706143
+92193,16609,San Diego Gas & Electric Co,CA,Delivery,Investor Owned,0.059179341,0.038634004,0.080602437
+2638,54913,NSTAR Electric Company,MA,Bundled,Investor Owned,0.165163137,0.137749146,0.162306859
+51047,9417,Interstate Power and Light Co,IA,Bundled,Investor Owned,0.092234317,0.058968641,0.130070934
+17925,14715,PPL Electric Utilities Corp,PA,Bundled,Investor Owned,0.144667651,0.263364462,0.1256233
+49660,4254,Consumers Energy Co,MI,Delivery,Investor Owned,0.013728496,0.008815742,0
+48731,5109,Detroit Edison Co,MI,Delivery,Investor Owned,0.022641072,0.011945853,0.058959538
+45050,3542,Duke Energy Ohio Inc,OH,Bundled,Investor Owned,0.128009982,0.119494389,0.121479174
+22576,19876,Virginia Electric & Power Co,VA,Bundled,Investor Owned,0.077371394,0.062481359,0.106423208
+2576,54913,NSTAR Electric Company,MA,Bundled,Investor Owned,0.165163137,0.137749146,0.162306859
+61043,4110,Commonwealth Edison Co,IL,Delivery,Investor Owned,0.018697463,0.012212514,0.046206542
+94662,14328,Pacific Gas & Electric Co,CA,Bundled,Investor Owned,0.142367554,0.094277933,0.153192074
+87192,15473,Public Service Co of NM,NM,Bundled,Investor Owned,0.095392108,0.060788651,0.114215332
+18064,12390,Metropolitan Edison Co,PA,Bundled,Investor Owned,0.121340576,0.107426201,0.134087433
+2881,13214,The Narragansett Electric Co,RI,Bundled,Investor Owned,0.124878893,0.117139315,0.142737988
+18041,14715,PPL Electric Utilities Corp,PA,Delivery,Investor Owned,0.014107527,0.004782847,0.040313882
+14786,16183,Rochester Gas & Electric Corp,NY,Bundled,Investor Owned,0.113909214,0.085023215,0.120649633
+70501,55936,Entergy Gulf States - LA LLC,LA,Bundled,Investor Owned,0.08007591,0.054237805,0.088990847
+14653,16183,Rochester Gas & Electric Corp,NY,Delivery,Investor Owned,0.043427921,0.031397187,0.058219249
+66759,10005,Kansas Gas & Electric Co,KS,Bundled,Investor Owned,0.080526705,0.058918962,0.099225667
+3290,15472,Public Service Co of NH,NH,Bundled,Investor Owned,0.159152107,0.190175077,0.169850762
+98024,15500,Puget Sound Energy Inc,WA,Bundled,Investor Owned,0.094190853,0.089245582,0.103703309
+19039,14940,PECO Energy Co,PA,Bundled,Investor Owned,0.128433164,0.09284082,0.155334596
+18010,12390,Metropolitan Edison Co,PA,Delivery,Investor Owned,0.025393569,0.010711085,0.046044189
+3043,15472,Public Service Co of NH,NH,Bundled,Investor Owned,0.159152107,0.190175077,0.169850762
+90247,17609,Southern California Edison Co,CA,Delivery,Investor Owned,0.047427465,0.027338937,0.099222044
+17032,14715,PPL Electric Utilities Corp,PA,Bundled,Investor Owned,0.144667651,0.263364462,0.1256233
+15722,14711,Pennsylvania Electric Co,PA,Delivery,Investor Owned,0.020927993,0.01129169,0.061388228
+53003,20847,Wisconsin Electric Power Co,WI,Bundled,Investor Owned,0.114723711,0.082369572,0.139680753
+17779,14715,PPL Electric Utilities Corp,PA,Delivery,Investor Owned,0.014107527,0.004782847,0.040313882
+1525,11804,Massachusetts Electric Co,MA,Bundled,Investor Owned,0.134146917,0.123324397,0.134916962
+12438,13511,New York State Elec & Gas Corp,NY,Bundled,Investor Owned,0.096221457,0.058438583,0.108261463
+17750,20387,West Penn Power Company,PA,Bundled,Investor Owned,0.087653653,0.073657228,0.097829904
+19155,14940,PECO Energy Co,PA,Bundled,Investor Owned,0.128433164,0.09284082,0.155334596
+15467,20387,West Penn Power Company,PA,Bundled,Investor Owned,0.087653653,0.073657228,0.097829904
+59741,12825,NorthWestern Energy LLC - (MT),MT,Bundled,Investor Owned,0.102187894,0.080272269,0.105844194
+15320,20387,West Penn Power Company,PA,Delivery,Investor Owned,0.011446967,0.003880767,0.026002226
+93007,17609,Southern California Edison Co,CA,Bundled,Investor Owned,0.125366193,0.090076352,0.144165776
+57702,19545,Black Hills Power Inc,SD,Bundled,Investor Owned,0.09567261,0.062704623,0.104644772
+1105,20455,Western Massachusetts Elec Co,MA,Bundled,Investor Owned,0.142065062,0.121061049,0.146917564
+8084,963,Atlantic City Electric Co,NJ,Bundled,Investor Owned,0.143731683,0.1006942,0.159823762
+50523,12341,MidAmerican Energy Co,IA,Bundled,Investor Owned,0.064814317,0.040821961,0.083954831
+1841,11804,Massachusetts Electric Co,MA,Delivery,Investor Owned,0.044144135,0.037251694,0.057463532
+12095,13573,Niagara Mohawk Power Corp.,NY,Delivery,Investor Owned,0.060239464,0.037673936,0.090200929
+35056,195,Alabama Power Co,AL,Bundled,Investor Owned,0.105761195,0.060292437,0.114943267
+93906,14328,Pacific Gas & Electric Co,CA,Bundled,Investor Owned,0.142367554,0.094277933,0.153192074
+27540,3046,Progress Energy Carolinas Inc,NC,Bundled,Investor Owned,0.082498909,0.066246849,0.10117792
+99159,20169,Avista Corp,WA,Bundled,Investor Owned,0.092629239,0.059806998,0.085779658
+35249,195,Alabama Power Co,AL,Bundled,Investor Owned,0.105761195,0.060292437,0.114943267
+32347,6455,Progress Energy Florida Inc,FL,Bundled,Investor Owned,0.098718164,0.08774184,0.128041631
+80215,15466,Public Service Co of Colorado,CO,Bundled,Investor Owned,0.095243706,0.065386443,0.111930008
+7851,9726,Jersey Central Power & Lt Co,NJ,Bundled,Investor Owned,0.152577037,0.133994295,0.157644275
+71726,814,Entergy Arkansas Inc,AR,Bundled,Investor Owned,0.073512933,0.059450174,0.090895742
+71479,17698,Southwestern Electric Power Co,LA,Bundled,Investor Owned,0.06886631,0.057475098,0.081692987
+14132,13573,Niagara Mohawk Power Corp.,NY,Bundled,Investor Owned,0.131290106,0.154663271,0.151591982
+50275,9417,Interstate Power and Light Co,IA,Bundled,Investor Owned,0.092234317,0.058968641,0.130070934
+44412,13998,Ohio Edison Co,OH,Delivery,Investor Owned,0.035332739,0.01164377,0.044297461
+45378,4922,Dayton Power & Light Co,OH,Bundled,Investor Owned,0.110168784,0.093546185,0.132174675
+64105,10000,Kansas City Power & Light Co,MO,Bundled,Investor Owned,0.083928551,0.062785301,0.105223185
+83325,9191,Idaho Power Co,ID,Bundled,Investor Owned,0.055579993,0.049492353,0.07404004
+66621,22500,Westar Energy Inc,KS,Bundled,Investor Owned,0.080520238,0.068371296,0.099272221
+26137,12796,Monongahela Power Co,WV,Bundled,Investor Owned,0.081872266,0.064239576,0.098438045
+67060,10005,Kansas Gas & Electric Co,KS,Bundled,Investor Owned,0.080526705,0.058918962,0.099225667
+16656,14711,Pennsylvania Electric Co,PA,Delivery,Investor Owned,0.020927993,0.01129169,0.061388228
+13826,13511,New York State Elec & Gas Corp,NY,Delivery,Investor Owned,0.029105834,0.01093415,0.046524072
+6112,4176,Connecticut Light & Power Co,CT,Delivery,Investor Owned,0.061097007,0.044635978,0.078313888
+3268,24590,Unitil Energy Systems,NH,Delivery,Investor Owned,0.055440218,0.038409399,0.064281191
+26230,12796,Monongahela Power Co,WV,Bundled,Investor Owned,0.081872266,0.064239576,0.098438045
+19087,14940,PECO Energy Co,PA,Bundled,Investor Owned,0.128433164,0.09284082,0.155334596
+45150,3542,Duke Energy Ohio Inc,OH,Bundled,Investor Owned,0.128009982,0.119494389,0.121479174
+95559,14328,Pacific Gas & Electric Co,CA,Delivery,Investor Owned,0.071437821,0.046590371,0.146238365
+27320,5416,Duke Energy Carolinas LLC,NC,Bundled,Investor Owned,0.071565584,0.053408512,0.091544482
+94563,14328,Pacific Gas & Electric Co,CA,Delivery,Investor Owned,0.071437821,0.046590371,0.146238365
+60067,4110,Commonwealth Edison Co,IL,Delivery,Investor Owned,0.018697463,0.012212514,0.046206542
+61051,4110,Commonwealth Edison Co,IL,Bundled,Investor Owned,0.100818909,0.067280048,0.126237538
+44423,13998,Ohio Edison Co,OH,Bundled,Investor Owned,0.106292845,0.06295084,0.109307305
+12592,13511,New York State Elec & Gas Corp,NY,Bundled,Investor Owned,0.096221457,0.058438583,0.108261463
+16945,14711,Pennsylvania Electric Co,PA,Bundled,Investor Owned,0.103665282,0.093954613,0.13705844
+72852,814,Entergy Arkansas Inc,AR,Bundled,Investor Owned,0.073512933,0.059450174,0.090895742
+23030,19876,Virginia Electric & Power Co,VA,Bundled,Investor Owned,0.077371394,0.062481359,0.106423208
+95945,14328,Pacific Gas & Electric Co,CA,Delivery,Investor Owned,0.071437821,0.046590371,0.146238365
+2108,54913,NSTAR Electric Company,MA,Delivery,Investor Owned,0.081434042,0.057905047,0.088478719
+2345,54913,NSTAR Electric Company,MA,Delivery,Investor Owned,0.081434042,0.057905047,0.088478719
+2211,54913,NSTAR Electric Company,MA,Bundled,Investor Owned,0.165163137,0.137749146,0.162306859
+32448,7801,Gulf Power Co,FL,Bundled,Investor Owned,0.104848571,0.088045842,0.120146985
+13616,13573,Niagara Mohawk Power Corp.,NY,Delivery,Investor Owned,0.060239464,0.037673936,0.090200929
+94559,14328,Pacific Gas & Electric Co,CA,Delivery,Investor Owned,0.071437821,0.046590371,0.146238365
+85341,803,Arizona Public Service Co,AZ,Bundled,Investor Owned,0.101075475,0.078327698,0.116110556
+16864,20387,West Penn Power Company,PA,Delivery,Investor Owned,0.011446967,0.003880767,0.026002226
+89158,13407,Nevada Power Co,NV,Bundled,Investor Owned,0.091295686,0.07822266,0.118566723
+14461,13511,New York State Elec & Gas Corp,NY,Bundled,Investor Owned,0.096221457,0.058438583,0.108261463
+16948,14711,Pennsylvania Electric Co,PA,Delivery,Investor Owned,0.020927993,0.01129169,0.061388228
+4971,3266,Central Maine Power Co,ME,Bundled,Investor Owned,0.115879828,0,0.15942029
+93456,14328,Pacific Gas & Electric Co,CA,Delivery,Investor Owned,0.071437821,0.046590371,0.146238365
+12852,13511,New York State Elec & Gas Corp,NY,Delivery,Investor Owned,0.029105834,0.01093415,0.046524072
+43522,18997,The Toledo Edison Co,OH,Delivery,Investor Owned,0.043203287,0.004030017,0.050900753
+53080,20847,Wisconsin Electric Power Co,WI,Bundled,Investor Owned,0.114723711,0.082369572,0.139680753
+44316,13998,Ohio Edison Co,OH,Delivery,Investor Owned,0.035332739,0.01164377,0.044297461
+16932,14711,Pennsylvania Electric Co,PA,Delivery,Investor Owned,0.020927993,0.01129169,0.061388228
+48732,4254,Consumers Energy Co,MI,Delivery,Investor Owned,0.013728496,0.008815742,0
+15553,14711,Pennsylvania Electric Co,PA,Bundled,Investor Owned,0.103665282,0.093954613,0.13705844
+12955,13511,New York State Elec & Gas Corp,NY,Bundled,Investor Owned,0.096221457,0.058438583,0.108261463
+83530,20169,Avista Corp,ID,Bundled,Investor Owned,0.088072539,0.055035802,0.089992133
+97290,15248,Portland General Electric Co,OR,Bundled,Investor Owned,0.088319388,0.062413187,0.108028672
+95230,14328,Pacific Gas & Electric Co,CA,Bundled,Investor Owned,0.142367554,0.094277933,0.153192074
+97269,15248,Portland General Electric Co,OR,Bundled,Investor Owned,0.088319388,0.062413187,0.108028672
+84637,14354,PacifiCorp,UT,Bundled,Investor Owned,0.07184833,0.049248749,0.090628234
+15279,5487,Duquesne Light Co,PA,Delivery,Investor Owned,0.021390766,0.011192024,0.062058592
+28734,5416,Duke Energy Carolinas LLC,NC,Bundled,Investor Owned,0.071565584,0.053408512,0.091544482
+36773,195,Alabama Power Co,AL,Bundled,Investor Owned,0.105761195,0.060292437,0.114943267
+7720,9726,Jersey Central Power & Lt Co,NJ,Bundled,Investor Owned,0.152577037,0.133994295,0.157644275
+49903,20847,Wisconsin Electric Power Co,MI,Bundled,Investor Owned,0.136549947,0.059702949,0.157136813
+16150,14716,Pennsylvania Power Co,PA,Delivery,Investor Owned,0.012388976,0.003491884,0.04443604
+96031,14354,PacifiCorp,CA,Bundled,Investor Owned,0.119015611,0.113856261,0.12880757
+32753,6452,Florida Power & Light Co,FL,Bundled,Investor Owned,0.091608902,0.073936822,0.106422376
+18642,14715,PPL Electric Utilities Corp,PA,Bundled,Investor Owned,0.144667651,0.263364462,0.1256233
+49945,19578,Upper Peninsula Power Co,MI,Bundled,Investor Owned,0.145608705,0.05837573,0.18344127
+71475,17698,Southwestern Electric Power Co,LA,Bundled,Investor Owned,0.06886631,0.057475098,0.081692987
+95978,14328,Pacific Gas & Electric Co,CA,Bundled,Investor Owned,0.142367554,0.094277933,0.153192074
+92022,16609,San Diego Gas & Electric Co,CA,Delivery,Investor Owned,0.059179341,0.038634004,0.080602437
+1532,11804,Massachusetts Electric Co,MA,Delivery,Investor Owned,0.044144135,0.037251694,0.057463532
+3743,15472,Public Service Co of NH,NH,Delivery,Investor Owned,0.046557711,0.034151942,0.06490993
+24111,733,Appalachian Power Co,VA,Bundled,Investor Owned,0.074521265,0.056596323,0.093569937
+15534,20387,West Penn Power Company,PA,Bundled,Investor Owned,0.087653653,0.073657228,0.097829904
+36461,195,Alabama Power Co,AL,Bundled,Investor Owned,0.105761195,0.060292437,0.114943267
+48627,4254,Consumers Energy Co,MI,Bundled,Investor Owned,0.112411514,0.081349356,0.133706143
+7980,9726,Jersey Central Power & Lt Co,NJ,Bundled,Investor Owned,0.152577037,0.133994295,0.157644275
+3260,15472,Public Service Co of NH,NH,Bundled,Investor Owned,0.159152107,0.190175077,0.169850762
+10013,4226,Consolidated Edison Co-NY Inc,NY,Bundled,Investor Owned,0.207022402,0.186480275,0.25588355
+52224,9417,Interstate Power and Light Co,IA,Bundled,Investor Owned,0.092234317,0.058968641,0.130070934
+7074,15477,Public Service Elec & Gas Co,NJ,Bundled,Investor Owned,0.136582522,0.066842646,0.165733958
+46242,9273,Indianapolis Power & Light Co,IN,Bundled,Investor Owned,0.095031555,0.068846527,0.0832219
+44094,3755,Cleveland Electric Illum Co,OH,Delivery,Investor Owned,0.045070857,0.009159279,0.047946266
+16678,14711,Pennsylvania Electric Co,PA,Bundled,Investor Owned,0.103665282,0.093954613,0.13705844
+95686,14328,Pacific Gas & Electric Co,CA,Delivery,Investor Owned,0.071437821,0.046590371,0.146238365
+48005,5109,Detroit Edison Co,MI,Delivery,Investor Owned,0.022641072,0.011945853,0.058959538
+44901,13998,Ohio Edison Co,OH,Delivery,Investor Owned,0.035332739,0.01164377,0.044297461
+17202,20387,West Penn Power Company,PA,Bundled,Investor Owned,0.087653653,0.073657228,0.097829904
+93905,14328,Pacific Gas & Electric Co,CA,Delivery,Investor Owned,0.071437821,0.046590371,0.146238365
+49679,4254,Consumers Energy Co,MI,Bundled,Investor Owned,0.112411514,0.081349356,0.133706143
+75602,17698,Southwestern Electric Power Co,TX,Bundled,Investor Owned,0.063361498,0.052386981,0.07869612
+24330,733,Appalachian Power Co,VA,Bundled,Investor Owned,0.074521265,0.056596323,0.093569937
+22185,19876,Virginia Electric & Power Co,VA,Bundled,Investor Owned,0.077371394,0.062481359,0.106423208
+30123,7140,Georgia Power Co,GA,Bundled,Investor Owned,0.098763907,0.065769411,0.119043403
+52576,9417,Interstate Power and Light Co,IA,Bundled,Investor Owned,0.092234317,0.058968641,0.130070934
+16694,14711,Pennsylvania Electric Co,PA,Bundled,Investor Owned,0.103665282,0.093954613,0.13705844
+32781,6452,Florida Power & Light Co,FL,Bundled,Investor Owned,0.091608902,0.073936822,0.106422376
+6478,4176,Connecticut Light & Power Co,CT,Delivery,Investor Owned,0.061097007,0.044635978,0.078313888
+2067,54913,NSTAR Electric Company,MA,Bundled,Investor Owned,0.165163137,0.137749146,0.162306859
+97210,15248,Portland General Electric Co,OR,Bundled,Investor Owned,0.088319388,0.062413187,0.108028672
+12093,13511,New York State Elec & Gas Corp,NY,Bundled,Investor Owned,0.096221457,0.058438583,0.108261463
+59424,12825,NorthWestern Energy LLC - (MT),MT,Bundled,Investor Owned,0.102187894,0.080272269,0.105844194
+7844,9726,Jersey Central Power & Lt Co,NJ,Delivery,Investor Owned,0.037020474,0.028127885,0.04876945
+92137,16609,San Diego Gas & Electric Co,CA,Delivery,Investor Owned,0.059179341,0.038634004,0.080602437
+27278,5416,Duke Energy Carolinas LLC,NC,Bundled,Investor Owned,0.071565584,0.053408512,0.091544482
+27711,3046,Progress Energy Carolinas Inc,NC,Bundled,Investor Owned,0.082498909,0.066246849,0.10117792
+59626,12825,NorthWestern Energy LLC - (MT),MT,Bundled,Investor Owned,0.102187894,0.080272269,0.105844194
+2151,11804,Massachusetts Electric Co,MA,Delivery,Investor Owned,0.044144135,0.037251694,0.057463532
+28776,3046,Progress Energy Carolinas Inc,NC,Bundled,Investor Owned,0.082498909,0.066246849,0.10117792
+93613,14328,Pacific Gas & Electric Co,CA,Delivery,Investor Owned,0.071437821,0.046590371,0.146238365
+10915,14154,Orange & Rockland Utils Inc,NY,Delivery,Investor Owned,0.051885114,0.030335244,0.087421006
+20238,15270,Potomac Electric Power Co,DC,Delivery,Investor Owned,0.036212417,0.013370544,0.032191719
+17843,14715,PPL Electric Utilities Corp,PA,Bundled,Investor Owned,0.144667651,0.263364462,0.1256233
+6098,4176,Connecticut Light & Power Co,CT,Delivery,Investor Owned,0.061097007,0.044635978,0.078313888
+19425,14940,PECO Energy Co,PA,Delivery,Investor Owned,0.028273768,0.011468911,0.065596309
+33935,6452,Florida Power & Light Co,FL,Bundled,Investor Owned,0.091608902,0.073936822,0.106422376
+7061,15477,Public Service Elec & Gas Co,NJ,Bundled,Investor Owned,0.136582522,0.066842646,0.165733958
+92066,16609,San Diego Gas & Electric Co,CA,Bundled,Investor Owned,0.160506948,0.130422159,0.177039321
+10173,4226,Consolidated Edison Co-NY Inc,NY,Bundled,Investor Owned,0.207022402,0.186480275,0.25588355
+97504,14354,PacifiCorp,OR,Delivery,Investor Owned,0.03759443,0,0
+15212,5487,Duquesne Light Co,PA,Bundled,Investor Owned,0.104442012,0.086683386,0.149769148
+3821,15472,Public Service Co of NH,NH,Delivery,Investor Owned,0.046557711,0.034151942,0.06490993
+13122,13573,Niagara Mohawk Power Corp.,NY,Delivery,Investor Owned,0.060239464,0.037673936,0.090200929
+18219,14715,PPL Electric Utilities Corp,PA,Bundled,Investor Owned,0.144667651,0.263364462,0.1256233
+60097,4110,Commonwealth Edison Co,IL,Bundled,Investor Owned,0.100818909,0.067280048,0.126237538
+15370,20387,West Penn Power Company,PA,Bundled,Investor Owned,0.087653653,0.073657228,0.097829904
+73054,14063,Oklahoma Gas & Electric Co,OK,Bundled,Investor Owned,0.073935975,0.054263465,0.096698525
+79250,17718,Southwestern Public Service Co,TX,Bundled,Investor Owned,0.068343137,0.04320619,0.090750575
+48071,5109,Detroit Edison Co,MI,Delivery,Investor Owned,0.022641072,0.011945853,0.058959538
+7110,15477,Public Service Elec & Gas Co,NJ,Delivery,Investor Owned,0.04451107,0.044186001,0.04564344
+29166,17539,South Carolina Electric&Gas Co,SC,Bundled,Investor Owned,0.102813097,0.069463774,0.12513854
+15233,5487,Duquesne Light Co,PA,Bundled,Investor Owned,0.104442012,0.086683386,0.149769148
+1464,11804,Massachusetts Electric Co,MA,Bundled,Investor Owned,0.134146917,0.123324397,0.134916962
+48088,5109,Detroit Edison Co,MI,Delivery,Investor Owned,0.022641072,0.011945853,0.058959538
+21654,5027,Delmarva Power,MD,Delivery,Investor Owned,0.020623473,0.010792457,0.039284877
+7105,15477,Public Service Elec & Gas Co,NJ,Delivery,Investor Owned,0.04451107,0.044186001,0.04564344
+10016,4226,Consolidated Edison Co-NY Inc,NY,Delivery,Investor Owned,0.080395462,0.078472483,0.147757285
+32709,6455,Progress Energy Florida Inc,FL,Bundled,Investor Owned,0.098718164,0.08774184,0.128041631
+54452,20860,Wisconsin Public Service Corp,WI,Bundled,Investor Owned,0.092318267,0.058833221,0.12472853
+17347,12390,Metropolitan Edison Co,PA,Delivery,Investor Owned,0.025393569,0.010711085,0.046044189
+18323,14715,PPL Electric Utilities Corp,PA,Delivery,Investor Owned,0.014107527,0.004782847,0.040313882
+15004,20387,West Penn Power Company,PA,Bundled,Investor Owned,0.087653653,0.073657228,0.097829904
+60419,4110,Commonwealth Edison Co,IL,Delivery,Investor Owned,0.018697463,0.012212514,0.046206542
+63745,19436,Union Electric Co - (MO),MO,Bundled,Investor Owned,0.073945246,0.050392067,0.091719389
+44003,13998,Ohio Edison Co,OH,Delivery,Investor Owned,0.035332739,0.01164377,0.044297461
+13745,13511,New York State Elec & Gas Corp,NY,Bundled,Investor Owned,0.096221457,0.058438583,0.108261463
+44122,3755,Cleveland Electric Illum Co,OH,Bundled,Investor Owned,0.125634338,0.057263611,0.116363088
+48838,4254,Consumers Energy Co,MI,Bundled,Investor Owned,0.112411514,0.081349356,0.133706143
+51551,12341,MidAmerican Energy Co,IA,Bundled,Investor Owned,0.064814317,0.040821961,0.083954831
+96051,14354,PacifiCorp,CA,Bundled,Investor Owned,0.119015611,0.113856261,0.12880757
+90603,17609,Southern California Edison Co,CA,Delivery,Investor Owned,0.047427465,0.027338937,0.099222044
+2646,54913,NSTAR Electric Company,MA,Delivery,Investor Owned,0.081434042,0.057905047,0.088478719
+18083,12390,Metropolitan Edison Co,PA,Bundled,Investor Owned,0.121340576,0.107426201,0.134087433
+15560,14711,Pennsylvania Electric Co,PA,Bundled,Investor Owned,0.103665282,0.093954613,0.13705844
+64187,10000,Kansas City Power & Light Co,MO,Bundled,Investor Owned,0.083928551,0.062785301,0.105223185
+83436,14354,PacifiCorp,ID,Bundled,Investor Owned,0.079261542,0.056234604,0.094316783
+60139,4110,Commonwealth Edison Co,IL,Bundled,Investor Owned,0.100818909,0.067280048,0.126237538
+21028,1167,Baltimore Gas & Electric Co,MD,Delivery,Investor Owned,0.020831967,0.012722466,0.038742255
+39533,12686,Mississippi Power Co,MS,Bundled,Investor Owned,0.092871822,0.060124421,0.113997334
+90270,17609,Southern California Edison Co,CA,Bundled,Investor Owned,0.125366193,0.090076352,0.144165776
+90801,17609,Southern California Edison Co,CA,Bundled,Investor Owned,0.125366193,0.090076352,0.144165776
+10022,4226,Consolidated Edison Co-NY Inc,NY,Delivery,Investor Owned,0.080395462,0.078472483,0.147757285
+1037,11804,Massachusetts Electric Co,MA,Bundled,Investor Owned,0.134146917,0.123324397,0.134916962
+13832,13511,New York State Elec & Gas Corp,NY,Delivery,Investor Owned,0.029105834,0.01093415,0.046524072
+19108,14940,PECO Energy Co,PA,Delivery,Investor Owned,0.028273768,0.011468911,0.065596309
+2725,11804,Massachusetts Electric Co,MA,Delivery,Investor Owned,0.044144135,0.037251694,0.057463532
+10160,4226,Consolidated Edison Co-NY Inc,NY,Delivery,Investor Owned,0.080395462,0.078472483,0.147757285
+10526,13511,New York State Elec & Gas Corp,NY,Delivery,Investor Owned,0.029105834,0.01093415,0.046524072
+12016,13573,Niagara Mohawk Power Corp.,NY,Delivery,Investor Owned,0.060239464,0.037673936,0.090200929
+33681,18454,Tampa Electric Co,FL,Bundled,Investor Owned,0.1017651,0.089401686,0.114102766
+48670,4254,Consumers Energy Co,MI,Delivery,Investor Owned,0.013728496,0.008815742,0
+18709,19390,UGI Utilities Inc,PA,Bundled,Investor Owned,0.115893428,0.099818588,0.125692272
+8603,15477,Public Service Elec & Gas Co,NJ,Delivery,Investor Owned,0.04451107,0.044186001,0.04564344
+16438,14711,Pennsylvania Electric Co,PA,Delivery,Investor Owned,0.020927993,0.01129169,0.061388228
+41203,22053,Kentucky Power Co,KY,Bundled,Investor Owned,0.09857028,0.060267867,0.096570014
+19081,14940,PECO Energy Co,PA,Delivery,Investor Owned,0.028273768,0.011468911,0.065596309
+93266,14328,Pacific Gas & Electric Co,CA,Bundled,Investor Owned,0.142367554,0.094277933,0.153192074
+60034,4110,Commonwealth Edison Co,IL,Bundled,Investor Owned,0.100818909,0.067280048,0.126237538
+30413,7140,Georgia Power Co,GA,Bundled,Investor Owned,0.098763907,0.065769411,0.119043403
+14481,13511,New York State Elec & Gas Corp,NY,Delivery,Investor Owned,0.029105834,0.01093415,0.046524072
+48874,4254,Consumers Energy Co,MI,Bundled,Investor Owned,0.112411514,0.081349356,0.133706143
+48744,5109,Detroit Edison Co,MI,Delivery,Investor Owned,0.022641072,0.011945853,0.058959538
+97624,14354,PacifiCorp,OR,Delivery,Investor Owned,0.03759443,0,0
+97022,15248,Portland General Electric Co,OR,Bundled,Investor Owned,0.088319388,0.062413187,0.108028672
+27511,5416,Duke Energy Carolinas LLC,NC,Bundled,Investor Owned,0.071565584,0.053408512,0.091544482
+43321,14006,Ohio Power Co,OH,Bundled,Investor Owned,0.094105189,0.054380761,0.112022297
+80019,15466,Public Service Co of Colorado,CO,Bundled,Investor Owned,0.095243706,0.065386443,0.111930008
+21775,15263,The Potomac Edison Company,MD,Bundled,Investor Owned,0.108714154,0.080103035,0.107445108
+18831,14711,Pennsylvania Electric Co,PA,Bundled,Investor Owned,0.103665282,0.093954613,0.13705844
+71295,11241,Entergy Louisiana Inc,LA,Bundled,Investor Owned,0.088846754,0.054731296,0.088922803
+43518,18997,The Toledo Edison Co,OH,Bundled,Investor Owned,0.126733142,0.037189295,0.117686492
+60190,4110,Commonwealth Edison Co,IL,Delivery,Investor Owned,0.018697463,0.012212514,0.046206542
+14804,13511,New York State Elec & Gas Corp,NY,Delivery,Investor Owned,0.029105834,0.01093415,0.046524072
+2060,11804,Massachusetts Electric Co,MA,Delivery,Investor Owned,0.044144135,0.037251694,0.057463532
+14423,13573,Niagara Mohawk Power Corp.,NY,Delivery,Investor Owned,0.060239464,0.037673936,0.090200929
+49078,4254,Consumers Energy Co,MI,Bundled,Investor Owned,0.112411514,0.081349356,0.133706143
+85075,803,Arizona Public Service Co,AZ,Bundled,Investor Owned,0.101075475,0.078327698,0.116110556
+80274,15466,Public Service Co of Colorado,CO,Bundled,Investor Owned,0.095243706,0.065386443,0.111930008
+89702,17166,Sierra Pacific Power Co,NV,Bundled,Investor Owned,0.097769156,0.061955426,0.111181131
+44334,13998,Ohio Edison Co,OH,Bundled,Investor Owned,0.106292845,0.06295084,0.109307305
+32145,6452,Florida Power & Light Co,FL,Bundled,Investor Owned,0.091608902,0.073936822,0.106422376
+17219,14711,Pennsylvania Electric Co,PA,Bundled,Investor Owned,0.103665282,0.093954613,0.13705844
+48841,4254,Consumers Energy Co,MI,Delivery,Investor Owned,0.013728496,0.008815742,0
+18927,14715,PPL Electric Utilities Corp,PA,Delivery,Investor Owned,0.014107527,0.004782847,0.040313882
+88589,5701,El Paso Electric Co,TX,Bundled,Investor Owned,0.104321264,0.068396185,0.118689772
+49450,4254,Consumers Energy Co,MI,Bundled,Investor Owned,0.112411514,0.081349356,0.133706143
+64090,12698,KCP&L Greater Missouri Operations Co.,MO,Bundled,Investor Owned,0.082052771,0.061268202,0.10386687
+49316,4254,Consumers Energy Co,MI,Delivery,Investor Owned,0.013728496,0.008815742,0
+43469,18997,The Toledo Edison Co,OH,Bundled,Investor Owned,0.126733142,0.037189295,0.117686492
+12976,13573,Niagara Mohawk Power Corp.,NY,Delivery,Investor Owned,0.060239464,0.037673936,0.090200929
+66250,10000,Kansas City Power & Light Co,KS,Bundled,Investor Owned,0.087507519,0.076114467,0.108023966
+96816,19547,Hawaiian Electric Co Inc,HI,Bundled,Investor Owned,0.296066494,0.265872025,0.320414265
+91913,16609,San Diego Gas & Electric Co,CA,Delivery,Investor Owned,0.059179341,0.038634004,0.080602437
+92022,16609,San Diego Gas & Electric Co,CA,Bundled,Investor Owned,0.160506948,0.130422159,0.177039321
+35453,195,Alabama Power Co,AL,Bundled,Investor Owned,0.105761195,0.060292437,0.114943267
+80250,15466,Public Service Co of Colorado,CO,Bundled,Investor Owned,0.095243706,0.065386443,0.111930008
+28229,5416,Duke Energy Carolinas LLC,NC,Bundled,Investor Owned,0.071565584,0.053408512,0.091544482
+6611,19497,United Illuminating Co,CT,Delivery,Investor Owned,0.071346558,0.060197032,0.11658636
+63028,19436,Union Electric Co - (MO),MO,Bundled,Investor Owned,0.073945246,0.050392067,0.091719389
+22215,19876,Virginia Electric & Power Co,VA,Bundled,Investor Owned,0.077371394,0.062481359,0.106423208
+53955,20856,Wisconsin Power & Light Co,WI,Bundled,Investor Owned,0.107383529,0.0753834,0.125864333
+60660,4110,Commonwealth Edison Co,IL,Delivery,Investor Owned,0.018697463,0.012212514,0.046206542
+5439,7601,Green Mountain Power Corp,VT,Bundled,Investor Owned,0.131517539,0.093322741,0.159753304
+47701,17633,Southern Indiana Gas & Elec Co,IN,Bundled,Investor Owned,0.121595312,0.077751919,0.142065053
+95735,14328,Pacific Gas & Electric Co,CA,Bundled,Investor Owned,0.142367554,0.094277933,0.153192074
+48401,5109,Detroit Edison Co,MI,Bundled,Investor Owned,0.103319837,0.071105571,0.137187602
+43615,18997,The Toledo Edison Co,OH,Bundled,Investor Owned,0.126733142,0.037189295,0.117686492
+91735,17609,Southern California Edison Co,CA,Bundled,Investor Owned,0.125366193,0.090076352,0.144165776
